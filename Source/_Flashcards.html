@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>This Could Be Better - Flashcards</title>
+    <link rel="stylesheet" type="text/css" href="default.css">
+  </head>
+  <body>
+  
+
+<p>The JavaScript program below prompts for a lesson file, and, when one is provided, quizzes the user with the questions from it.  When the user answers all questions correctly the specified times in a row, the lesson is counted as complete.</p>
+
+<p>The lesson file should be a text file.  Each line in the file represents a question and its correct response, delimited by a semicolon.</p>
+
+<p>A sample lesson is provided.  More lessons are linked from <a href="https://thiscouldbebetter.neocities.org/Flashcards/index.html">this page</a>.
+
+<div id="divMain">
+	<!-- user interface -->
+	<div style="border:1px solid">
+		<label>Load Lesson from File:</label>
+		<input id="inputLessonFile" type="file" onchange="inputLessonFile_Changed();"></input>
+		<br />
+		
+		<label>Lesson:<label>
+		<button onclick="buttonLessonShowHide_Clicked();">Show/Hide</button>
+		<br />
+		<textarea id="textareaLesson" cols="40" rows="10">
+amarillo;yellow
+anaranjado;orange
+azul;blue
+blanco;white
+gris;gray
+marro'n;brown
+morado;purple
+negro;black
+rojo;red
+rosado;pink
+verde;green
+		</textarea>
+		
+		<div>
+			<label>Reverse Question and Answer:</label>
+			<input id="checkboxReverse" type="checkbox"></input>
+		</div>
+		
+		<div>
+			<label>Randomize Order:</label>
+			<input id="checkboxRandomizeOrder" type="checkbox" checked="true"></input>
+		</div>
+		
+		<div>
+			<label>Times Each Question Must Be Answered Correctly:</label>		
+			<input id="inputTimesCorrectPerQuestion" type="number" value="3"></input>
+		</div>
+
+		<button id="buttonStart" onclick="buttonStart_Clicked();">Start Lesson</button>
+	</div>
+
+	<div style="border:1px solid">
+		<div>
+			<div><label>Question:</label></div>
+			<textarea id="textareaPresentation" readonly="readonly"></textarea>
+		</div>
+
+		<div>
+			<div><label>Answer:</label></div>
+			<input id="inputResponse"></input>
+		</div>
+
+		<p id="pStatusMessage">Upload a valid lesson file and click the Start button to begin.</p>
+	</div>
+</div>
+
+<script type="text/javascript" src="buttonLessonShowHide_Clicked.js"></script>
+<script type="text/javascript" src="buttonStart_Clicked.js"></script>
+<script type="text/javascript" src="inputLessonFile_Changed.js"></script>
+<script type="text/javascript" src="inputLessonFile_Changed_FileLoaded.js"></script>
+<script type="text/javascript" src="DisplayHelper.js"></script>
+<script type="text/javascript" src="Globals.js"></script>
+<script type="text/javascript" src="InputHelper.js"></script>
+<script type="text/javascript" src="LessonDefn.js"></script>
+<script type="text/javascript" src="LessonRun.js"></script>
+<script type="text/javascript" src="Question.js"></script>
+<script type="text/javascript" src="ResponseRecord.js"></script>
+
+</body>
+</html>
