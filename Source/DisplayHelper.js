@@ -15,10 +15,10 @@ function DisplayHelper()
 		);
 
 		var questionCurrent = lessonRun.questionCurrent();
-		var presentation = 
+		var presentation =
 		(
-			lessonRun.defn.arePresentationAndResponseReversed == true 
-			? questionCurrent.responseCorrect 
+			lessonRun.defn.arePresentationAndResponseReversed == true
+			? questionCurrent.responseCorrect
 			: questionCurrent.presentation
 		);
 		textareaPresentation.value = presentation;

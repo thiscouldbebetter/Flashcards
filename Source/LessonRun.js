@@ -2,8 +2,8 @@
 function LessonRun(defn)
 {
 	this.defn = defn;
-	this.statusMessage = 
-		"Each question must be correctly answered " 
+	this.statusMessage =
+		"Each question must be correctly answered "
 		+ this.defn.timesCorrectPerQuestion
 		+ " times in a row.";
 }
@@ -11,21 +11,23 @@ function LessonRun(defn)
 {
 	LessonRun.prototype.initialize = function()
 	{
+		var questions = this.defn.questions;
+
 		this.questionIndexCurrent = 0;
 		if (this.defn.isOrderRandomized == true)
 		{
-		  this.questionIndexCurrent = Math.floor
-		  (
-		    Math.random() * this.defn.questions.length
-		  );  
+			this.questionIndexCurrent = Math.floor
+			(
+				Math.random() * questions.length
+			);
 		}
-		this.responseRecords = [];
 
-		var questions = this.defn.questions;
+		this.questionIndicesIncomplete = [];
+		this.responseRecords = [];
 
 		for (var i = 0; i < questions.length; i++)
 		{
-			var question = questions[i];
+			this.questionIndicesIncomplete.push(i);
 			var responseRecord = new ResponseRecord();
 			this.responseRecords.push(responseRecord);
 		}
@@ -33,39 +35,23 @@ function LessonRun(defn)
 
 	LessonRun.prototype.isComplete = function()
 	{
-		var returnValue = true;
-
-		var timesRequired = this.defn.timesCorrectPerQuestion;
-
-		for (var i = 0; i < this.responseRecords.length; i++)
-		{
-			var responseRecord = this.responseRecords[i];
-			if (responseRecord.timesCorrect < timesRequired)
-			{
-				returnValue = false;
-				break;
-			}
-		}	
-
-		return returnValue;
+		return (this.questionIndicesIncomplete.length == 0);
 	}
 
 	LessonRun.prototype.questionAdvance = function()
 	{
 		var isFirstTime = true;
 		var timesRequired = this.defn.timesCorrectPerQuestion;
-		
+
 		if (this.defn.isOrderRandomized == true)
 		{
-		  this.questionIndexCurrent = Math.floor
-		  (
-		    Math.random() * this.defn.questions.length
-		  );
+			var questionIndexNext = this.questionIndicesIncomplete.random();
+			this.questionIndexCurrent = questionIndexNext;
 		}
 
-		while 
+		while
 		(
-			isFirstTime == true 
+			isFirstTime == true
 			|| this.responseRecordCurrent().timesCorrect >= timesRequired
 		)
 		{

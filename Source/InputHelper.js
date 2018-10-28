@@ -19,41 +19,46 @@ function InputHelper()
 		{
 			var inputResponse = document.getElementById("inputResponse");
 			var responseActual = inputResponse.value.trim();
-			
+
 			var lessonRun = Globals.Instance.lessonRun;
+			var lessonDefn = lessonRun.defn;
 			var questionCurrent = lessonRun.questionCurrent();
-			var responseExpected = 
+			var responseExpected =
 			(
-				lessonRun.defn.arePresentationAndResponseReversed == true 
-				? questionCurrent.presentation 
+				lessonDefn.arePresentationAndResponseReversed == true
+				? questionCurrent.presentation
 				: questionCurrent.responseCorrect
 			);
-	
+
 			var responseRecordCurrent = lessonRun.responseRecordCurrent();
 
 			if (responseActual == responseExpected)
 			{
 				responseRecordCurrent.timesCorrect++;
-				lessonRun.statusMessage = 
+				lessonRun.statusMessage =
 					"Correct!  The previous question has been answered correctly "
 					+ responseRecordCurrent.timesCorrect
 					+ " times in a row.";
+				if (responseRecordCurrent.timesCorrect >= lessonDefn.timesCorrectPerQuestion)
+				{
+					lessonRun.questionIndicesIncomplete.remove(lessonRun.questionIndexCurrent);
+				}
 			}
 			else
 			{
 				responseRecordCurrent.timesCorrect = 0;
-				lessonRun.statusMessage = 
+				lessonRun.statusMessage =
 					"Incorrect!  The correct answer was "
 					+ responseExpected
 					+ ".  You answered "
 					+ responseActual
-					+ ".";	
+					+ ".";
 			}
 
 			if (lessonRun.isComplete() == true)
 			{
-				lessonRun.statusMessage = 
-					"Lesson complete!  Each question was answered correctly " 
+				lessonRun.statusMessage =
+					"Lesson complete!  Each question was answered correctly "
 					+ lessonRun.defn.timesCorrectPerQuestion
 					+ " times in a row.";
 				document.body.onkeydown = null;
@@ -68,6 +73,5 @@ function InputHelper()
 				lessonRun
 			);
 		}
-		
 	}
 }
