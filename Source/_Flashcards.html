@@ -71,8 +71,80 @@ verde;green
 	</div>
 </div>
 
-<script type="text/javascript" src="buttonLessonShowHide_Clicked.js"></script>
-<script type="text/javascript" src="buttonStart_Clicked.js"></script>
+<script type="text/javascript">
+
+	// ui events
+
+	function buttonLessonShowHide_Clicked()
+	{
+		var textareaLesson = document.getElementById("textareaLesson");
+		if (textareaLesson.style.display == "none")
+		{
+			textareaLesson.style.display = "inline";
+		}
+		else 
+		{
+			textareaLesson.style.display = "none";  
+		}
+	}
+
+
+function buttonStart_Clicked()
+{
+	var textareaLesson = document.getElementById("textareaLesson");
+	var lessonAsString = textareaLesson.value;
+
+	var checkboxReverse = document.getElementById("checkboxReverse");
+	var arePresentationAndResponseReversed = checkboxReverse.checked;
+	
+	var checkboxRandomizeOrder = document.getElementById("checkboxRandomizeOrder");
+	var isOrderRandomized = checkboxRandomizeOrder.checked;
+		
+	var inputTimesCorrectPerQuestion = document.getElementById
+	(
+		"inputTimesCorrectPerQuestion"
+	);
+	var timesCorrectPerQuestion = parseInt(inputTimesCorrectPerQuestion.value);
+	
+	var lessonDefn = LessonDefn.build
+	(
+	    lessonAsString,
+	    arePresentationAndResponseReversed,
+	    isOrderRandomized,
+	    timesCorrectPerQuestion
+	);
+	
+	Globals.Instance.initialize(lessonDefn);
+}
+
+
+function inputLessonFile_Changed(event)
+{
+	var inputLessonFile = event.target;
+	var file = inputLessonFile.files[0];
+	
+	if (file == null)
+	{
+		alert("A valid lesson file must be specified by clicking the Lesson File button.");
+	}
+	else
+	{
+		var fileReader = new FileReader();
+		fileReader.onload = inputLessonFile_Changed_FileLoaded;
+		fileReader.readAsText(file);
+	}
+}
+
+
+function inputLessonFile_Changed_FileLoaded(event)
+{
+	var fileContents = event.target.result;  
+	var textareaLesson = document.getElementById("textareaLesson");
+	textareaLesson.value = fileContents;
+}
+
+</script>
+
 <script type="text/javascript" src="inputLessonFile_Changed.js"></script>
 <script type="text/javascript" src="inputLessonFile_Changed_FileLoaded.js"></script>
 <script type="text/javascript" src="DisplayHelper.js"></script>
