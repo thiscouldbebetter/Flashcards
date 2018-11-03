@@ -1,0 +1,76 @@
+How many hours does one period of the cell cycle last in a typical adult animal cell?;24
+When mitosis is used for reproduction, is the reproduction sexual or asexual?;asexual
+When meiosis is used for reproduction, is the reproduction sexual or asexual?;sexual
+What form of cell division is used for sexual reproduction?;meiosis
+What does the word "meiosis" mean in Greek?;lessening
+How many distinct "rounds" of cell division take place in meiosis?;2
+In which round of meiosis, I or II, does chromosomal crossover occur?;I
+In which round of meiosis, I or II, does separation of sister chromatids into haploid gametes occur?;II
+Are the offspring of asexual reproduction genetically identical to the parent?;yes
+Are the offspring of sexual reproduction genetically identical to the parent?;no
+What are the only cells in the female body that have undergone meiosis?;ova
+What are the only cells in the male body that have undergone meiosis?;sperm
+Which form of cell division lets multicellular organisms grow larger?;mitosis
+Which form of cell division lets multicellular organisms replace worn-out cells?;mitosis
+What does the Greek word "mitos" mean, as used in the words "mitosis" and "mitochondrion"?;thread
+What are the major stages of the cell cycle?;interphase, mitosis, and cytokinesis
+In what stage of the cell cycle does the cell spend the most time?;interphase
+About what percentage of the total cell cycle is spent in interphase?;90
+What does the prefix "inter" literally mean?;between
+What are the substages of interphase, in order?;G1, S, and G2
+What does the letter "G" stand for in the G1 and G2 stages of interphase?;gap
+What does the letter "S" stand for in the S stage of interphase?;synthesis
+What is being synthesized during the "S" stage of interphase?;DNA
+During what stage of the cell cycle is DNA replicated?;interphase
+In what stage of the cell cycle does a single nucleus split into two?;mitosis
+What are the stages of mitosis, in order?;prophase, metaphase, anaphase, and telophase
+During what phase of mitosis do the nuclear membrane and nucleolus break down?;prophase
+What does the prefix "pro-" mean as used in the word "prophase"?;before
+During what phase of mitosis do chromosomes consense from long DNA strands?;prophase
+What structure in animal cells most resembles an extruded pasta cartwheel?;centriole
+What structure in animal cells is made up of two perpendicular centrioles?;centrosome
+What does the word "centrosome" mean?;center body
+How many centrosomes does a cell have during interphase?;1
+What structural components link centrosomes and chromosomes during mitosis?;microtubules
+What structure do linked centrioles, microtubules, and centromeres make?;mitotic spindle
+During what phase of mitosis does the mitotic spindle form?;prophase
+What structure links the two sister chromatids in a chromosome?;centromere
+Are centromeres and centrosomes the same thing?;no
+Of what substance are centromeres made?;DNA
+Of what substance are centrosomes made?;microtubules
+What are the two major parts of a condensed chromosome called?;sister chromatids
+What does the word "chromosome" literally mean?;colored body
+Of what substance are chromosomes made?;DNA
+What does the abbreviation "DNA" stand for?;deoxyribonucleic acid
+What does the prefix "meta-" mean as used in the word "metaphase"?;adjacent
+In what phase of mitosis do the centromeres of chromosomes align at the cell's center?;metaphase
+What is the imaginary plane equidistant from the centrosomes of the mitotic spindle called?;metaphase plate
+At the beginning of what stage of mitosis do centromeres break?;anaphase
+During what stage of mitosis do sister chromatids start to move toward opposite ends of the cell?;anaphase
+What structures pull the sister chromatids apart during anaphase?;microtubules
+During what stage of mitosis do two nucleoli and two nuclear membranes re-form?;telophase 
+What does the Greek word "telos" mean?;end
+What structure causes the indentation of the animal cell membrane during cytokinesis?;contractile ring
+In cytokinesis, of what substances is the contractile ring made?;actin and myosin
+Aside from the contractile ring in cytokinesis, what tissues in the body also contain actin and myosin fibers?;muscle
+What is cancer?;uncontrolled cell growth
+What causes cancer?;accumulated mutations
+What kind of cell does not obey signals to stop reproducing?;cancer
+What is the name of the woman who died in 1951, but whose cancer cells are still living today?;Henrietta Lacks
+What is a physical substance that causes mutations called?;mutagen
+In what stage of the cell cycle does a single cell split into two?;cytokinesis
+What does the word "cytokinesis" mean in Greek?;cell movement
+What does the word "somatic" mean?;body
+How many individual chromosomes are in a normal somatic cell?;46
+What does the word "homologous" mean, as applied to pairs of chromosomes?;matching
+How many pairs of homologous chromosomes are in a diploid cell?;23
+How many pairs of homologous chromosomes are in a haploid cell?;0
+How many individual chromosomes are in a haploid cell?;23
+How many copies of chromosome 21 are in the cells of a typical human?;2x
+How many copies of chromosome 21 are in the cells of a human with Down Syndrome?;3
+How many cells are eventually made from a single progenitor in mitosis?;2
+How many cells are eventually made from a single progenitor in meiosis?;4
+What does a plant cell undergoing mitosis have that an animal cell would lack?;cell plate
+In mitosis of plant cells, what structure is built along the cell plate?;cell wall 
+What does an animal cell undergoing mitosis have that a plant cell would lack?;furrow
+What is the advantage of sexual reproduction over asexual reproduction?;genetic variability

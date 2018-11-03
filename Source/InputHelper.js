@@ -21,14 +21,8 @@ function InputHelper()
 			var responseActual = inputResponse.value.trim();
 
 			var lessonRun = Globals.Instance.lessonRun;
-			var lessonDefn = lessonRun.defn;
-			var questionCurrent = lessonRun.questionCurrent();
-			var responseExpected =
-			(
-				lessonDefn.arePresentationAndResponseReversed == true
-				? questionCurrent.presentation
-				: questionCurrent.responseCorrect
-			);
+
+			var responseExpected = lessonRun.responseExpected();
 
 			var responseRecordCurrent = lessonRun.responseRecordCurrent();
 

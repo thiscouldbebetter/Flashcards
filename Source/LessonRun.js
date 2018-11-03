@@ -3,7 +3,8 @@ function LessonRun(defn)
 {
 	this.defn = defn;
 	this.statusMessage =
-		"Each question must be correctly answered "
+		this.defn.questions.length
+		+ " questions must each be correctly answered "
 		+ this.defn.timesCorrectPerQuestion
 		+ " times in a row.";
 }
@@ -16,51 +17,13 @@ function LessonRun(defn)
 		var secondsToComplete = millisecondsToComplete / 1000;
 
 		var statusMessage =
-			"Lesson complete!  Each question was answered correctly "
+			"Lesson complete!  " + this.defn.questions.length
+			+  " questions were each answered correctly "
 			+ this.defn.timesCorrectPerQuestion
 			+ " times in a row, taking " + secondsToComplete + " seconds, with "
 			+ this.responsesIncorrectCount() + " incorrect responses.";
 
 		this.statusMessage = statusMessage;
-	}
-
-	LessonRun.prototype.responseCorrect = function(responseRecord)
-	{
-		responseRecord.timesCorrect++;
-		this.statusMessage =
-			"Correct!  The previous question has been answered correctly "
-			+ responseRecord.timesCorrect
-			+ " times in a row.";
-		if (responseRecord.timesCorrect >= this.defn.timesCorrectPerQuestion)
-		{
-			this.questionIndicesIncomplete.remove(this.questionIndexCurrent);
-		}
-	}
-
-	LessonRun.prototype.responseIncorrect = function(responseRecord, responseExpected, responseActual)
-	{
-		responseRecord.timesIncorrect++;
-		responseRecord.timesCorrect = 0;
-		this.statusMessage =
-			"Incorrect!  The correct answer was \""
-			+ responseExpected
-			+ "\".  You answered \""
-			+ responseActual
-			+ "\".  The question has been answered incorrectly "
-			+ responseRecord.timesIncorrect + " times.";
-	}
-
-	LessonRun.prototype.responsesIncorrectCount = function()
-	{
-		var returnValue = 0;
-
-		for (var i = 0; i < this.responseRecords.length; i++)
-		{
-			var responseRecord = this.responseRecords[i];
-			returnValue += responseRecord.timesIncorrect;
-		}
-
-		return returnValue;
 	}
 
 	LessonRun.prototype.initialize = function()
@@ -87,6 +50,59 @@ function LessonRun(defn)
 			var responseRecord = new ResponseRecord();
 			this.responseRecords.push(responseRecord);
 		}
+	}
+
+	LessonRun.prototype.responseCorrect = function(responseRecord)
+	{
+		responseRecord.timesCorrect++;
+		if (responseRecord.timesCorrect >= this.defn.timesCorrectPerQuestion)
+		{
+			this.questionIndicesIncomplete.remove(this.questionIndexCurrent);
+		}
+		this.statusMessage =
+			"Correct!  The previous question has been answered correctly "
+			+ responseRecord.timesCorrect
+			+ " times in a row.  "
+			+ this.questionIndicesIncomplete.length + " incomplete questions remain.";
+	}
+
+	LessonRun.prototype.responseExpected = function()
+	{
+		var questionCurrent = this.questionCurrent();
+		var responseExpected =
+		(
+			this.defn.arePresentationAndResponseReversed == true
+			? questionCurrent.presentation
+			: questionCurrent.responseCorrect
+		);
+
+		return responseExpected;
+	}
+
+	LessonRun.prototype.responseIncorrect = function(responseRecord, responseExpected, responseActual)
+	{
+		responseRecord.timesIncorrect++;
+		responseRecord.timesCorrect = 0;
+		this.statusMessage =
+			"Incorrect!  The correct answer was \""
+			+ responseExpected
+			+ "\".  You answered \""
+			+ responseActual
+			+ "\".  The question has been answered incorrectly "
+			+ responseRecord.timesIncorrect + " times.";
+	}
+
+	LessonRun.prototype.responsesIncorrectCount = function()
+	{
+		var returnValue = 0;
+
+		for (var i = 0; i < this.responseRecords.length; i++)
+		{
+			var responseRecord = this.responseRecords[i];
+			returnValue += responseRecord.timesIncorrect;
+		}
+
+		return returnValue;
 	}
 
 	LessonRun.prototype.isComplete = function()

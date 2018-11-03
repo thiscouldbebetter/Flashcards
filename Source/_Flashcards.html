@@ -4,7 +4,7 @@
 	<head>
 		<meta charset="UTF-8">
 		<title>This Could Be Better - Flashcards</title>
-		<link rel="stylesheet" type="text/css" href="default.css">
+		<link href="/style.css" rel="stylesheet" type="text/css" media="all">
 	</head>
 
 <body>
@@ -13,7 +13,7 @@
 
 <p>The lesson file should be a text file.  Each line in the file represents a question and its correct response, delimited by a semicolon.</p>
 
-<p>A sample lesson is provided.  More lessons are linked from <a href="https://thiscouldbebetter.neocities.org/Flashcards/index.html">this page</a>.
+<p>A sample lesson is provided.  More lessons are linked from <a href="../Data/Subjects.html">this page</a>.
 
 <div id="divMain">
 	<!-- user interface -->
@@ -26,18 +26,40 @@
 		<button onclick="buttonLessonShowHide_Clicked();">Show/Hide</button>
 		<br />
 		<textarea id="textareaLesson" cols="40" rows="10">
-amarillo;yellow
-anaranjado;orange
-azul;blue
-blanco;white
-gris;gray
-marro'n;brown
-morado;purple
-negro;black
-rojo;red
-rosado;pink
-verde;green
-		</textarea>
+amarillo
+yellow
+
+<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Orange-Whole-%26-Split.jpg/330px-Orange-Whole-%26-Split.jpg' />
+anaranjado
+orange
+
+azul
+blue
+
+blanco
+white
+
+gris
+gray
+
+marro'n
+brown
+
+morado
+purple
+
+negro
+black
+
+rojo
+red
+
+rosado
+pink
+
+verde
+green
+				</textarea>
 
 		<div>
 			<label>Reverse Question and Answer:</label>
@@ -51,7 +73,7 @@ verde;green
 
 		<div>
 			<label>Times Each Question Must Be Answered Correctly:</label>
-			<input id="inputTimesCorrectPerQuestion" type="number" value="3"></input>
+			<input id="inputTimesCorrectPerQuestion" type="number" value="3" style="width:32px"></input>
 		</div>
 
 		<button id="buttonStart" onclick="buttonStart_Clicked();">Start Lesson</button>
@@ -60,12 +82,13 @@ verde;green
 	<div style="border:1px solid">
 		<div>
 			<div><label>Question:</label></div>
-			<textarea id="textareaPresentation" readonly="readonly"></textarea>
+			<div id="divQuestionContext"></div>
+			<textarea id="textareaPresentation" cols="40" rows="2" readonly="readonly"></textarea>
 		</div>
 
 		<div>
 			<div><label>Answer:</label></div>
-			<input id="inputResponse"></input>
+			<textarea id="inputResponse" cols="40" rows="1"></textarea>
 		</div>
 
 		<p id="pStatusMessage">Upload a valid lesson file and click the Start button to begin.</p>
