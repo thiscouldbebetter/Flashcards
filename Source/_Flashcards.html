@@ -1,12 +1,13 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="UTF-8">
-    <title>This Could Be Better - Flashcards</title>
-    <link rel="stylesheet" type="text/css" href="default.css">
-  </head>
-  <body>
-  
+
+	<head>
+		<meta charset="UTF-8">
+		<title>This Could Be Better - Flashcards</title>
+		<link rel="stylesheet" type="text/css" href="default.css">
+	</head>
+
+<body>
 
 <p>The JavaScript program below prompts for a lesson file, and, when one is provided, quizzes the user with the questions from it.  When the user answers all questions correctly the specified times in a row, the lesson is counted as complete.</p>
 
@@ -20,7 +21,7 @@
 		<label>Load Lesson from File:</label>
 		<input id="inputLessonFile" type="file" onchange="inputLessonFile_Changed();"></input>
 		<br />
-		
+
 		<label>Lesson:<label>
 		<button onclick="buttonLessonShowHide_Clicked();">Show/Hide</button>
 		<br />
@@ -37,19 +38,19 @@ rojo;red
 rosado;pink
 verde;green
 		</textarea>
-		
+
 		<div>
 			<label>Reverse Question and Answer:</label>
 			<input id="checkboxReverse" type="checkbox"></input>
 		</div>
-		
+
 		<div>
 			<label>Randomize Order:</label>
 			<input id="checkboxRandomizeOrder" type="checkbox" checked="true"></input>
 		</div>
-		
+
 		<div>
-			<label>Times Each Question Must Be Answered Correctly:</label>		
+			<label>Times Each Question Must Be Answered Correctly:</label>
 			<input id="inputTimesCorrectPerQuestion" type="number" value="3"></input>
 		</div>
 
@@ -82,71 +83,67 @@ verde;green
 		{
 			textareaLesson.style.display = "inline";
 		}
-		else 
+		else
 		{
-			textareaLesson.style.display = "none";  
+			textareaLesson.style.display = "none";
 		}
 	}
 
-
-function buttonStart_Clicked()
-{
-	var textareaLesson = document.getElementById("textareaLesson");
-	var lessonAsString = textareaLesson.value;
-
-	var checkboxReverse = document.getElementById("checkboxReverse");
-	var arePresentationAndResponseReversed = checkboxReverse.checked;
-	
-	var checkboxRandomizeOrder = document.getElementById("checkboxRandomizeOrder");
-	var isOrderRandomized = checkboxRandomizeOrder.checked;
-		
-	var inputTimesCorrectPerQuestion = document.getElementById
-	(
-		"inputTimesCorrectPerQuestion"
-	);
-	var timesCorrectPerQuestion = parseInt(inputTimesCorrectPerQuestion.value);
-	
-	var lessonDefn = LessonDefn.build
-	(
-	    lessonAsString,
-	    arePresentationAndResponseReversed,
-	    isOrderRandomized,
-	    timesCorrectPerQuestion
-	);
-	
-	Globals.Instance.initialize(lessonDefn);
-}
-
-
-function inputLessonFile_Changed(event)
-{
-	var inputLessonFile = event.target;
-	var file = inputLessonFile.files[0];
-	
-	if (file == null)
+	function buttonStart_Clicked()
 	{
-		alert("A valid lesson file must be specified by clicking the Lesson File button.");
+		var textareaLesson = document.getElementById("textareaLesson");
+		var lessonAsString = textareaLesson.value;
+
+		var checkboxReverse = document.getElementById("checkboxReverse");
+		var arePresentationAndResponseReversed = checkboxReverse.checked;
+
+		var checkboxRandomizeOrder = document.getElementById("checkboxRandomizeOrder");
+		var isOrderRandomized = checkboxRandomizeOrder.checked;
+
+		var inputTimesCorrectPerQuestion = document.getElementById
+		(
+			"inputTimesCorrectPerQuestion"
+		);
+		var timesCorrectPerQuestion = parseInt(inputTimesCorrectPerQuestion.value);
+
+		var lessonDefn = LessonDefn.build
+		(
+			lessonAsString,
+			arePresentationAndResponseReversed,
+			isOrderRandomized,
+			timesCorrectPerQuestion
+		);
+
+		Globals.Instance.initialize(lessonDefn);
 	}
-	else
+
+	function inputLessonFile_Changed(event)
 	{
-		var fileReader = new FileReader();
-		fileReader.onload = inputLessonFile_Changed_FileLoaded;
-		fileReader.readAsText(file);
+		var inputLessonFile = event.target;
+		var file = inputLessonFile.files[0];
+
+		if (file == null)
+		{
+			alert("A valid lesson file must be specified by clicking the Lesson File button.");
+		}
+		else
+		{
+			var fileReader = new FileReader();
+			fileReader.onload = inputLessonFile_Changed_FileLoaded;
+			fileReader.readAsText(file);
+		}
 	}
-}
 
-
-function inputLessonFile_Changed_FileLoaded(event)
-{
-	var fileContents = event.target.result;  
-	var textareaLesson = document.getElementById("textareaLesson");
-	textareaLesson.value = fileContents;
-}
+	function inputLessonFile_Changed_FileLoaded(event)
+	{
+		var fileContents = event.target.result;
+		var textareaLesson = document.getElementById("textareaLesson");
+		textareaLesson.value = fileContents;
+	}
 
 </script>
 
-<script type="text/javascript" src="inputLessonFile_Changed.js"></script>
-<script type="text/javascript" src="inputLessonFile_Changed_FileLoaded.js"></script>
+<script type="text/javascript" src="ArrayExtensions.js"></script>
 <script type="text/javascript" src="DisplayHelper.js"></script>
 <script type="text/javascript" src="Globals.js"></script>
 <script type="text/javascript" src="InputHelper.js"></script>

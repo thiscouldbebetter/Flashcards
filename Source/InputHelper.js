@@ -34,33 +34,16 @@ function InputHelper()
 
 			if (responseActual == responseExpected)
 			{
-				responseRecordCurrent.timesCorrect++;
-				lessonRun.statusMessage =
-					"Correct!  The previous question has been answered correctly "
-					+ responseRecordCurrent.timesCorrect
-					+ " times in a row.";
-				if (responseRecordCurrent.timesCorrect >= lessonDefn.timesCorrectPerQuestion)
-				{
-					lessonRun.questionIndicesIncomplete.remove(lessonRun.questionIndexCurrent);
-				}
+				lessonRun.responseCorrect(responseRecordCurrent);
 			}
 			else
 			{
-				responseRecordCurrent.timesCorrect = 0;
-				lessonRun.statusMessage =
-					"Incorrect!  The correct answer was "
-					+ responseExpected
-					+ ".  You answered "
-					+ responseActual
-					+ ".";
+				lessonRun.responseIncorrect(responseRecordCurrent, responseExpected, responseActual);
 			}
 
 			if (lessonRun.isComplete() == true)
 			{
-				lessonRun.statusMessage =
-					"Lesson complete!  Each question was answered correctly "
-					+ lessonRun.defn.timesCorrectPerQuestion
-					+ " times in a row.";
+				lessonRun.complete();
 				document.body.onkeydown = null;
 			}
 			else
