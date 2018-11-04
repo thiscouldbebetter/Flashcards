@@ -8,8 +8,15 @@ function LessonDefn(questions, arePresentationAndResponseReversed, isOrderRandom
 }
 
 {
-
-	LessonDefn.build = function(lessonFileContents, arePresentationAndResponseReversed, isOrderRandomized, timesCorrectPerQuestion)
+	LessonDefn.build = function
+	(
+		lessonFileContents,
+		partIndex,
+		numberOfParts,
+		arePresentationAndResponseReversed,
+		isOrderRandomized,
+		timesCorrectPerQuestion
+	)
 	{
 		var questionsAsStrings = lessonFileContents.split("\n\n");
 
@@ -51,6 +58,16 @@ function LessonDefn(questions, arePresentationAndResponseReversed, isOrderRandom
 				}
 			}
 		}
+
+		var numberOfQuestionsInFullLesson = questions.length;
+		var questionsPerPart = Math.ceil(numberOfQuestionsInFullLesson / numberOfParts);
+		var questionIndexFirstInPart = questionsPerPart * partIndex;
+
+		questions = questions.slice
+		(
+			questionIndexFirstInPart,
+			questionIndexFirstInPart + questionsPerPart
+		);
 
 		var returnValue = null;
 

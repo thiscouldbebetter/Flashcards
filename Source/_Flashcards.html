@@ -4,7 +4,6 @@
 	<head>
 		<meta charset="UTF-8">
 		<title>This Could Be Better - Flashcards</title>
-		<link href="/style.css" rel="stylesheet" type="text/css" media="all">
 	</head>
 
 <body>
@@ -59,7 +58,14 @@ pink
 
 verde
 green
-				</textarea>
+		</textarea>
+
+		<div>
+			<label>Part:</label>
+			<input id="inputPartIndexPlusOne" type="number" value="1" style="width:32px"></input>
+			<label>of</label>
+			<input id="inputNumberOfParts" type="number" value="1" style="width:32px"></input>
+		</div>
 
 		<div>
 			<label>Reverse Question and Answer:</label>
@@ -114,6 +120,12 @@ green
 
 	function buttonStart_Clicked()
 	{
+		var inputPartIndexPlusOne = document.getElementById("inputPartIndexPlusOne");
+		var partIndex = parseInt(inputPartIndexPlusOne.value) - 1;
+
+		var inputNumberOfParts = document.getElementById("inputNumberOfParts");
+		var numberOfParts = parseInt(inputNumberOfParts.value);
+
 		var textareaLesson = document.getElementById("textareaLesson");
 		var lessonAsString = textareaLesson.value;
 
@@ -132,6 +144,8 @@ green
 		var lessonDefn = LessonDefn.build
 		(
 			lessonAsString,
+			partIndex,
+			numberOfParts,
 			arePresentationAndResponseReversed,
 			isOrderRandomized,
 			timesCorrectPerQuestion
