@@ -1,46 +1,137 @@
-What does the word "photosynthesis" mean in Greek?;light putting together
-What are the inputs of photosynthesis?;carbon dioxide and water
-What are the outputs of photosynthesis?;glucose and oxygen
-What does the word "glucose" literally mean?;sweet sugar
-What is the chemical formula of glucose?;C6H12O6
-Which of the products of photosynthesis benefits the plant?;glucose
-Which of the products of photosynthesis is mainly a waste product for the plant?;oxygen
-In what organelle does photosynthesis occur?;chloroplast
-What does the word "chloroplast" mean in Greek?;green granule
-What are the two stages of photosynthesis?;light reactions and Calvin cycle
-Where in the chloroplast do the light reactions occur?;thylakoids
-What molecules absorb light in photosynthesis?;chlorophyll and carotenoids
-How many different types of chlorophyll are there?;2
-What two colors of light are most strongly absorbed by chlorophyll?;blue and red
-What color of light is most strongly reflected by chlorophyll?;green
-What color of light is most strongly reflected by carotenoids?;yellow
-What molecule from outside the chloroplast is an input of the light reactions?;water
-What molecules from the Calvin cycle are inputs to the light reactions?;ADP, phosphate, and NADP+
-What role does NADPH serve in photosynthesis?;electron acceptor
-What is the system of protein complexes that uses energy from light to make ATP and NADPH?;electron transport chain
-Where in the chloroplast is the electron transport chain located?;thylakoid membrane
-What protein complexes make up the electron transport chain in chloroplasts?;photosystem II, cytochrome, and photosystem I
-Which comes first in the electron transport chain, photosystem I or photosystem II?;photosystem II
-Which was discovered first, photosystem I or photosystem II?;photosystem I
-Which photosystem splits water into oxygen and hydrogen ions?;photosystem II
-What output molecule from the light reactions is immediately expelled from the chloroplast?;oxygen
-What molecules from the light reactions are inputs to the Calvin cycle?;ATP and NADPH
-What does NADP stand for?;nicotinamide adenine dinucleotide phosphate
-What does "thylakoid" mean in Greek?;sacklike
-What is another name for the Calvin cycle?;dark reactions
-Who discovered the Calvin cycle?;Melvin Calvin
-Where in the chloroplast does the Calvin cycle occur?;stroma
-What does the word "stroma" mean in Greek?;blanket
-What molecule from outside the chloroplast is an input to the Calvin cycle?;carbon dioxide
-What molecule is the primary output of the Calvin cycle?;glucose
-What molecules from the light reactions are inputs to the Calvin Cycle?;ATP and NADPH
-How many G3P molecules are produced by one turn of the Calvin cycle?;2
-What does G3P stand for?;glyceraldehyde-3-phosphate
-How many carbon atoms are in a G3P molecule?;3
-How many turns of the Calvin cycle are needed to create a glucose molecule?;6
-What does the word "polymer" mean in Greek?;many parts
-What does the word "monomer" mean in Greek?;one part
-Of what monomers is the starch polymer made up?;glucose
-Of what monomers is the cellulose polymer made up?;glucose
-What are microscopic pores in leaves and stems called?;stomata
-What is the waxy coating on some plant leaves and stems called?cuticle
+What does the word "photosynthesis" mean in Greek?
+light putting together
+
+What are the inputs of photosynthesis?
+carbon dioxide and water
+
+What are the outputs of photosynthesis?
+glucose and oxygen
+
+What does the word "glucose" literally mean?
+sweet sugar
+
+What is the chemical formula of glucose?
+C6H12O6
+
+Which of the products of photosynthesis benefits the plant?
+glucose
+
+Which of the products of photosynthesis is mainly a waste product for the plant?
+oxygen
+
+In what organelle does photosynthesis occur?
+chloroplast
+
+What does the word "chloroplast" mean in Greek?
+green granule
+
+What are the two stages of photosynthesis?
+light reactions and Calvin cycle
+
+Where in the chloroplast do the light reactions occur?
+thylakoids
+
+What molecules absorb light in photosynthesis?
+chlorophyll and carotenoids
+
+How many different types of chlorophyll are there?
+2
+
+What two colors of light are most strongly absorbed by chlorophyll?
+blue and red
+
+What color of light is most strongly reflected by chlorophyll?
+green
+
+What color of light is most strongly reflected by carotenoids?
+yellow
+
+What molecule from outside the chloroplast is an input of the light reactions?
+water
+
+What molecules from the Calvin cycle are inputs to the light reactions?
+ADP, phosphate, and NADP+
+
+What role does NADPH serve in photosynthesis?
+electron acceptor
+
+What is the system of protein complexes that uses energy from light to make ATP and NADPH?
+electron transport chain
+
+Where in the chloroplast is the electron transport chain located?
+thylakoid membrane
+
+What protein complexes make up the electron transport chain in chloroplasts?
+photosystem II, cytochrome, and photosystem I
+
+Which comes first in the electron transport chain, photosystem I or photosystem II?
+photosystem II
+
+Which was discovered first, photosystem I or photosystem II?
+photosystem I
+
+Which photosystem splits water into oxygen and hydrogen ions?
+photosystem II
+
+What output molecule from the light reactions is immediately expelled from the chloroplast?
+oxygen
+
+What molecules from the light reactions are inputs to the Calvin cycle?
+ATP and NADPH
+
+What does NADP stand for?
+nicotinamide adenine dinucleotide phosphate
+
+What does "thylakoid" mean in Greek?
+sacklike
+
+What is another name for the Calvin cycle?
+dark reactions
+
+Who discovered the Calvin cycle?
+Melvin Calvin
+
+Where in the chloroplast does the Calvin cycle occur?
+stroma
+
+What does the word "stroma" mean in Greek?
+blanket
+
+What molecule from outside the chloroplast is an input to the Calvin cycle?
+carbon dioxide
+
+What molecule is the primary output of the Calvin cycle?
+glucose
+
+What molecules from the light reactions are inputs to the Calvin Cycle?
+ATP and NADPH
+
+How many G3P molecules are produced by one turn of the Calvin cycle?
+2
+
+What does G3P stand for?
+glyceraldehyde-3-phosphate
+
+How many carbon atoms are in a G3P molecule?
+3
+
+How many turns of the Calvin cycle are needed to create a glucose molecule?
+6
+
+What does the word "polymer" mean in Greek?
+many parts
+
+What does the word "monomer" mean in Greek?
+one part
+
+Of what monomers is the starch polymer made up?
+glucose
+
+Of what monomers is the cellulose polymer made up?
+glucose
+
+What are microscopic pores in leaves and stems called?
+stomata
+
+What is the waxy coating on some plant leaves and stems called?
+cuticle

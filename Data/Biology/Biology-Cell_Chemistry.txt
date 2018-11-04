@@ -1,65 +1,194 @@
-What is the structure of a cell membrane?;phospholipid bilayer
-Do animal cells have cell membranes?;yes
-Do plant cells have cell membranes?;yes
-Do animal cells have cell walls?;no
-Do plant cells have cell walls?;yes
-What kind of organisms other than plants sometimes have cell walls?;bacteria
-What is the term for a membrane that is permeable to some substances but not others?;selectively permeable
-What molecule forms the head of a phospholipid?;phosphate
-What molecules form the tails of a phospholipid?;fatty acids
-How many tails does a phospholipid have?;2
-What molecule links the head and tail of a phospholipid?;glycerol
-What does the word "glycerol" mean?;sweet alcohol
-How many carbon atoms are there in a glycerol molecule?;3
-Which end of a phospholipid is hydrophilic?;head
-Which end of a phospholipid is hydrophobic?;tails
-What does the word "hydrophilic" mean?;water loving
-What does the word "hydrophobic" mean?;water hating
-In a phospholipid bilayer, what parts of the two layers touch each other?;tails
-In a phospholipid bilayer, what parts of the two layers face into and out of the cell?;heads
-Of what monomers are proteins made?;amino acids
-What determines the order of amino acid monomers in a protein?;DNA base pair triplets
-What are triglycerides more commonly called?;fats
-What molecule makes up the head of a triglyceride?;glycerol
-What kind of molecules make up the tails of a triglyceride?;fatty acids
-How many fatty acids in a triglyceride?;3
-What term describes a protein permanently embedded in a membrane?;integral
-What term describes a protein temporarily attached to a membrane?;peripheral
-How many rings of carbon atoms are there in a typical cholesterol molecule?;4
-Is cholesterol mostly produced by animal or plant cells?;animal
-What organelle do eukaryotes have that prokaryotes lack?;nucleus
-What does the word "eukaryote" mean?;true kernel
-Is a human a eukaryote or a prokaryote?;eukaryote
-Is a plant a eukaryote or a prokaryote?;eukaryote
-Is a bacterium a eukaryote or a prokaryote?;prokaryote
-Is a fungus a eukaryote or a prokaryote?;eukaryote
-Is a cyanobacterium a eukaryote or a prokaryote?;prokaryote
-Is a paramecium a eukaryote or a prokaryote?;eukaryote
-What is a an older, outdated term for cyanobacterium?;blue-green alga
-What is the name of the theory that some organelles in eukaryotes evolved from invading prokaryotes?;endosymbiont
-What does the word "endosymbiont" mean?;living together inside
-According to endosymbiont theory, what two organelles evolved from invading prokaryotes?;chloroplasts and mitochondria
-What is a solution with higher solute concentration than a reference solution called?;hypertonic
-What does the word "hypertonic" literally mean?;over stretching
-A cell placed into a solution hypertonic to it will ________.;shrivel
-What is a solution with lower solute concentration than a reference solution called?;hypotonic
-What does the word "hypotonic" literally mean?;under stretching
-A cell placed into a solution hypotonic to it will ________.;swell
-What structure prevents plant cells from bursting when placed in a hypotonic solution?;cell wall
-What does the prefix "iso-" mean?;same
-What is a solution with the same solute concentration than a reference solution called?;isotonic
-In passive transport, which direction along the concentration gradient do molecules move?;high to low
-In active transport, which direction along the concentration gradient do molecules move?;low to high
-Does passive transport use ATP?;no
-Does active transport use ATP?;yes
-Is simple diffusion a form of passive or active transport?;passive
-What is the movement of water down its concentration gradient through a semipermeable membrane called?;osmosis
-Is osmosis a form of passive or active transport?;passive
-What process brings substances into a cell by enclosing them in a membrane and budding off a vesicle?;endocytosis
-What does the word "endocytosis" mean?;inside cell
-What process moves substances out of a cell by merging a vesicle containing them with the cell's outer membrane?;exocytosis
-Is endocytosis a form of passive or active transport?;active 
-What does the word "exocytosis" mean?;outside cell
-Is exocytosis a form of passive or active transport?;active 
-Is osmosis a form of passive or active transport?;passive 
-What do facilitated diffusion and active transport have in common?;proteins
+What is the structure of a cell membrane?
+phospholipid bilayer
+
+Do animal cells have cell membranes?
+yes
+
+Do plant cells have cell membranes?
+yes
+
+Do animal cells have cell walls?
+no
+
+Do plant cells have cell walls?
+yes
+
+What kind of organisms other than plants sometimes have cell walls?
+bacteria
+
+What is the term for a membrane that is permeable to some substances but not others?
+selectively permeable
+
+What molecule forms the head of a phospholipid?
+phosphate
+
+What molecules form the tails of a phospholipid?
+fatty acids
+
+How many tails does a phospholipid have?
+2
+
+What molecule links the head and tail of a phospholipid?
+glycerol
+
+What does the word "glycerol" mean?
+sweet alcohol
+
+How many carbon atoms are there in a glycerol molecule?
+3
+
+Which end of a phospholipid is hydrophilic?
+head
+
+Which end of a phospholipid is hydrophobic?
+tails
+
+What does the word "hydrophilic" mean?
+water loving
+
+What does the word "hydrophobic" mean?
+water hating
+
+In a phospholipid bilayer, what parts of the two layers touch each other?
+tails
+
+In a phospholipid bilayer, what parts of the two layers face into and out of the cell?
+heads
+
+Of what monomers are proteins made?
+amino acids
+
+What determines the order of amino acid monomers in a protein?
+DNA base pair triplets
+
+What are triglycerides more commonly called?
+fats
+
+What molecule makes up the head of a triglyceride?
+glycerol
+
+What kind of molecules make up the tails of a triglyceride?
+fatty acids
+
+How many fatty acids in a triglyceride?
+3
+
+What term describes a protein permanently embedded in a membrane?
+integral
+
+What term describes a protein temporarily attached to a membrane?
+peripheral
+
+How many rings of carbon atoms are there in a typical cholesterol molecule?
+4
+
+Is cholesterol mostly produced by animal or plant cells?
+animal
+
+What organelle do eukaryotes have that prokaryotes lack?
+nucleus
+
+What does the word "eukaryote" mean?
+true kernel
+
+Is a human a eukaryote or a prokaryote?
+eukaryote
+
+Is a plant a eukaryote or a prokaryote?
+eukaryote
+
+Is a bacterium a eukaryote or a prokaryote?
+prokaryote
+
+Is a fungus a eukaryote or a prokaryote?
+eukaryote
+
+Is a cyanobacterium a eukaryote or a prokaryote?
+prokaryote
+
+Is a paramecium a eukaryote or a prokaryote?
+eukaryote
+
+What is a an older, outdated term for cyanobacterium?
+blue-green alga
+
+What is the name of the theory that some organelles in eukaryotes evolved from invading prokaryotes?
+endosymbiont
+
+What does the word "endosymbiont" mean?
+living together inside
+
+According to endosymbiont theory, what two organelles evolved from invading prokaryotes?
+chloroplasts and mitochondria
+
+What is a solution with higher solute concentration than a reference solution called?
+hypertonic
+
+What does the word "hypertonic" literally mean?
+over stretching
+
+A cell placed into a solution hypertonic to it will ________.
+shrivel
+
+What is a solution with lower solute concentration than a reference solution called?
+hypotonic
+
+What does the word "hypotonic" literally mean?
+under stretching
+
+A cell placed into a solution hypotonic to it will ________.
+swell
+
+What structure prevents plant cells from bursting when placed in a hypotonic solution?
+cell wall
+
+What does the prefix "iso-" mean?
+same
+
+What is a solution with the same solute concentration than a reference solution called?
+isotonic
+
+In passive transport, which direction along the concentration gradient do molecules move?
+high to low
+
+In active transport, which direction along the concentration gradient do molecules move?
+low to high
+
+Does passive transport use ATP?
+no
+
+Does active transport use ATP?
+yes
+
+Is simple diffusion a form of passive or active transport?
+passive
+
+What is the movement of water down its concentration gradient through a semipermeable membrane called?
+osmosis
+
+Is osmosis a form of passive or active transport?
+passive
+
+What process brings substances into a cell by enclosing them in a membrane and budding off a vesicle?
+endocytosis
+
+What does the word "endocytosis" mean?
+inside cell
+
+What process moves substances out of a cell by merging a vesicle containing them with the cell's outer membrane?
+exocytosis
+
+Is endocytosis a form of passive or active transport?
+active 
+
+What does the word "exocytosis" mean?
+outside cell
+
+Is exocytosis a form of passive or active transport?
+active 
+
+Is osmosis a form of passive or active transport?
+passive 
+
+What do facilitated diffusion and active transport have in common?
+proteins

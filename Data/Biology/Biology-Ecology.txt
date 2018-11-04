@@ -1,55 +1,164 @@
-What is the study of the relationships of organisms and their environment called?;ecology
-What is a group of organisms and their environment called?;ecosystem
-In an ecosystem, what are living things that affect other organisms called?;biotic factors
-In an ecosystem, what are nonliving things that affect organisms called?;abiotic factors
-What is the place an organism lives called?;habitat
-What is the term for the way a particular organism fits into its ecosystem?;niche
-What is the number of organisms of a particular type in a particular region called?;population
-What is a group of ecological populations called?;community
-What does the word "autotroph" mean?;self feeding
-What does the word "heterotroph" mean?;feeding on others
-What is another word for autotroph?;producer
-What is another word for heterotroph?;consumer
-What is an animal that eats only plants called?;herbivore
-What is an animal that eats only other animals called?;carnivore
-What is an animal that eats both animals and plants called?;omnivore
-What is an animal that eats decomposed plants and animals called?;detritovore
-What is a series of organisms, each of which consumes the one before it, called?;food chain
-What is a cross-connecting and branching system of food chains called?;food web
-What is the relatively thin shell around Earth that supports life called?;biosphere
-What is the position that an organism occupies in a food chain called?;trophic level
-What is the maximum population that a given habitat can support called?;carrying capacity
-What is a variable that, when changed, changes the maximum size of a given population called?;limiting factor
-What is a factor whose effects change with the population size in a given area called?;density-dependent
-Is the climate a density-dependent or density-independent factor?;density-independent
-What capital letter does the shape of an exponential growth curve most resemble?;J
-What capital letter does the shape of a logistic growth curve most resemble?;S
-What percentage of useful energy is typically lost between two adjacent trophic levels?;90
-What is the term for the idea that energy can be neither created nor destroyed, only transformed?;conservation of energy
-What is the term for the idea that matter can be neither created nor destroyed, only moved around?;conservation of mass
-What does the word "symbiosis" mean?;living together
-In what form of symbiosis does one species benefit while the other is mostly unaffected?;commensalism
-In what form of symbiosis does one species benefit while the other is harmed?;parasitism
-In what form of symbiosis do both species benefit?;mutualism
-Is predation usually considered a form of symbiosis?;no
-What is the term for a "major ecological community type"?;biome
-What are "jungle", "grassland", "wetland", "deciduous forest", "tundra", "taiga", and "desert" examples of?;biomes
-In what process do a series of species colonize a new or disturbed environment?;succession
-What kind of succession occurs in a mostly lifeless environment?;primary
-What kind of succession occurs after a disturbance in an established ecosystem?;secondary
-What is the term for a species that first colonizes a lifeless environment?;pioneer
-What mutualistic association of a fungus and an alga colonizes islands recently formed by lava flows?;lichen 
-What are the major processes of the water cycle?;evaporation, condensation, precipitation, and runoff
-What process primarily removes carbon from the atmosphere?;photosynthesis
-What process primarily puts carbon back into the atmosphere?;cellular respiration
-In the nitrogen cycle, what process primarily removes nitrogen from the atmosphere?;fixation
-What kind of organisms do nitrogen fixation?;bacteria
-Where do nitrogen-fixing bacteria live?;soil
-On what parts of plants do some nitrogen-fixing bacteria live?;roots
-How does phosphorus enter the ecosystem?;weathering of phosphate rocks
-Where does phosphorus in the ecosystem eventually end up?;ocean floor
-What does the word "tropism" mean in Greek?;turning
-What form of tropism causes a plant to grow toward light?;phototropism
-What form of tropism causes a plant's roots to grow down while its shoots grow up?;gravitropism
-What form of tropism causes a vine to wrap around a support?;thigmotropism
-What form of tropism causes roots to grow toward water?;hydrotropism
+What is the study of the relationships of organisms and their environment called?
+ecology
+
+What is a group of organisms and their environment called?
+ecosystem
+
+In an ecosystem, what are living things that affect other organisms called?
+biotic factors
+
+In an ecosystem, what are nonliving things that affect organisms called?
+abiotic factors
+
+What is the place an organism lives called?
+habitat
+
+What is the term for the way a particular organism fits into its ecosystem?
+niche
+
+What is the number of organisms of a particular type in a particular region called?
+population
+
+What is a group of ecological populations called?
+community
+
+What does the word "autotroph" mean?
+self feeding
+
+What does the word "heterotroph" mean?
+feeding on others
+
+What is another word for autotroph?
+producer
+
+What is another word for heterotroph?
+consumer
+
+What is an animal that eats only plants called?
+herbivore
+
+What is an animal that eats only other animals called?
+carnivore
+
+What is an animal that eats both animals and plants called?
+omnivore
+
+What is an animal that eats decomposed plants and animals called?
+detritovore
+
+What is a series of organisms, each of which consumes the one before it, called?
+food chain
+
+What is a cross-connecting and branching system of food chains called?
+food web
+
+What is the relatively thin shell around Earth that supports life called?
+biosphere
+
+What is the position that an organism occupies in a food chain called?
+trophic level
+
+What is the maximum population that a given habitat can support called?
+carrying capacity
+
+What is a variable that, when changed, changes the maximum size of a given population called?
+limiting factor
+
+What is a factor whose effects change with the population size in a given area called?
+density-dependent
+
+Is the climate a density-dependent or density-independent factor?
+density-independent
+
+What capital letter does the shape of an exponential growth curve most resemble?
+J
+
+What capital letter does the shape of a logistic growth curve most resemble?
+S
+
+What percentage of useful energy is typically lost between two adjacent trophic levels?
+90
+
+What is the term for the idea that energy can be neither created nor destroyed, only transformed?
+conservation of energy
+
+What is the term for the idea that matter can be neither created nor destroyed, only moved around?
+conservation of mass
+
+What does the word "symbiosis" mean?
+living together
+
+In what form of symbiosis does one species benefit while the other is mostly unaffected?
+commensalism
+
+In what form of symbiosis does one species benefit while the other is harmed?
+parasitism
+
+In what form of symbiosis do both species benefit?
+mutualism
+
+Is predation usually considered a form of symbiosis?
+no
+
+What is the term for a "major ecological community type"?
+biome
+
+What are "jungle", "grassland", "wetland", "deciduous forest", "tundra", "taiga", and "desert" examples of?
+biomes
+
+In what process do a series of species colonize a new or disturbed environment?
+succession
+
+What kind of succession occurs in a mostly lifeless environment?
+primary
+
+What kind of succession occurs after a disturbance in an established ecosystem?
+secondary
+
+What is the term for a species that first colonizes a lifeless environment?
+pioneer
+
+What mutualistic association of a fungus and an alga colonizes islands recently formed by lava flows?
+lichen 
+
+What are the major processes of the water cycle?
+evaporation, condensation, precipitation, and runoff
+
+What process primarily removes carbon from the atmosphere?
+photosynthesis
+
+What process primarily puts carbon back into the atmosphere?
+cellular respiration
+
+In the nitrogen cycle, what process primarily removes nitrogen from the atmosphere?
+fixation
+
+What kind of organisms do nitrogen fixation?
+bacteria
+
+Where do nitrogen-fixing bacteria live?
+soil
+
+On what parts of plants do some nitrogen-fixing bacteria live?
+roots
+
+How does phosphorus enter the ecosystem?
+weathering of phosphate rocks
+
+Where does phosphorus in the ecosystem eventually end up?
+ocean floor
+
+What does the word "tropism" mean in Greek?
+turning
+
+What form of tropism causes a plant to grow toward light?
+phototropism
+
+What form of tropism causes a plant's roots to grow down while its shoots grow up?
+gravitropism
+
+What form of tropism causes a vine to wrap around a support?
+thigmotropism
+
+What form of tropism causes roots to grow toward water?
+hydrotropism

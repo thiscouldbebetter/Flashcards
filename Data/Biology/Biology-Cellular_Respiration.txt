@@ -1,45 +1,135 @@
-What is the first stage of cellular respiration?;glycolysis
-What does glycolysis mean in Greek?;sweet destruction
-Where in the cell does glycolysis occur?;cytoplasm
-What molecule is the primary input to glycolysis?;glucose
-What molecule is the primary output of glycolysis?;pyruvate
-How many pyruvates are made from a single glucose in glycolysis?;2
-How many net ATP molecules are created in glycolysis?;2
-In the cell, what molecules act as catalysts to transform other molecules?;enzymes
-What is the second stage of cellular respiration?;Krebs cycle
-What is another name for the Krebs cycle?;citric acid cycle
-Who discovered the Krebs cycle?;Hans Adolf Krebs
-Where in the cell does the Krebs cycle occur?;mitochondrial matrix
-What molecule is the primary input of the Krebs cycle?;pyruvate
-What is pyruvate transformed into before entering the Krebs cycle proper?;acetyl-CoA
-How many enzyme/metabolite pairs are in the Krebs cycle proper?;9
-How many ATPs are made when 2 pyruvates go through the Krebs cycle?;2
-What is the third stage of cellular respiration?;oxidative phosphorylation
-What is the system of proteins embedded in the mitochondrial matrix that does oxidative phosphorylation called?;electron transport chain
-What molecule uses hydrogen ions to add a phosphate to ADP to make ATP?;ATP synthase
-What molecule is the primary input of oxidative phosphorylation?;NADH
-What does NAD stand for?;nicotinamide adenine dinucleotide
-What molecule is the primary output of oxidative phosphorylation?;ATP
-How many net ATP molecules are produced in oxidative phosphorylation?;34 
-Where does oxidative phosphorylation occur?;inner mitochondrial membrane
-What does ATP stand for?;adenosine triphosphate
-Of what two subparts is adenosine made?;adenine and ribose
-Of what two subparts is ATP made?;adenosine and phosphates
-What does ADP stand for?;adenosine diphosphate
-What does AMP stand for?;adenosine monophosphate
-What kind of molecules have names that end in "-ose"?;sugars
-What kind of molecules have names that end in "-ase"?;enzymes
-What kind of molecules are enzymes?;proteins
-Do plants do cellular respiration?;yes
-What does "aerobic" mean?;with air
-What does "anaerobic" mean?;without air
-What are the processes of anaerobic respiration sometimes called?;fermentation
-What molecule is the primary input of fermentation?;glucose
-What output molecule of fermentation benefits the cell?;ATP
-What are the two primary types of fermentation?;alcoholic and lactic acid
-What kind of alcohol is produced by alcoholic fermentation?;ethanol
-What two waste products are produced by fermentation by yeast?;ethanol and carbon dioxide
-What waste products are produced by fermentation by bacteria?;lactic acid
-How many ATP molecules are produced per glucose by alcoholic fermentation?;2
-How many ATP molecules are produced per glucose by lactic acid fermentation?;2
-Does aerobic or anaerobic respiration produce ATP from glucose more efficiently?;aerobic
+What is the first stage of cellular respiration?
+glycolysis
+
+What does glycolysis mean in Greek?
+sweet destruction
+
+Where in the cell does glycolysis occur?
+cytoplasm
+
+What molecule is the primary input to glycolysis?
+glucose
+
+What molecule is the primary output of glycolysis?
+pyruvate
+
+How many pyruvates are made from a single glucose in glycolysis?
+2
+
+How many net ATP molecules are created in glycolysis?
+2
+
+In the cell, what molecules act as catalysts to transform other molecules?
+enzymes
+
+What is the second stage of cellular respiration?
+Krebs cycle
+
+What is another name for the Krebs cycle?
+citric acid cycle
+
+Who discovered the Krebs cycle?
+Hans Adolf Krebs
+
+Where in the cell does the Krebs cycle occur?
+mitochondrial matrix
+
+What molecule is the primary input of the Krebs cycle?
+pyruvate
+
+What is pyruvate transformed into before entering the Krebs cycle proper?
+acetyl-CoA
+
+How many enzyme/metabolite pairs are in the Krebs cycle proper?
+9
+
+How many ATPs are made when 2 pyruvates go through the Krebs cycle?
+2
+
+What is the third stage of cellular respiration?
+oxidative phosphorylation
+
+What is the system of proteins embedded in the mitochondrial matrix that does oxidative phosphorylation called?
+electron 
+transport chain
+
+What molecule uses hydrogen ions to add a phosphate to ADP to make ATP?
+ATP synthase
+
+What molecule is the primary input of oxidative phosphorylation?
+NADH
+
+What does NAD stand for?
+nicotinamide adenine dinucleotide
+
+What molecule is the primary output of oxidative phosphorylation?
+ATP
+
+How many net ATP molecules are produced in oxidative phosphorylation?
+34 
+
+Where does oxidative phosphorylation occur?
+inner mitochondrial membrane
+
+What does ATP stand for?
+adenosine triphosphate
+
+Of what two subparts is adenosine made?
+adenine and ribose
+
+Of what two subparts is ATP made?
+adenosine and phosphates
+
+What does ADP stand for?
+adenosine diphosphate
+
+What does AMP stand for?
+adenosine monophosphate
+
+What kind of molecules have names that end in "-ose"?
+sugars
+
+What kind of molecules have names that end in "-ase"?
+enzymes
+
+What kind of molecules are enzymes?
+proteins
+
+Do plants do cellular respiration?
+yes
+
+What does "aerobic" mean?
+with air
+
+What does "anaerobic" mean?
+without air
+
+What are the processes of anaerobic respiration sometimes called?
+fermentation
+
+What molecule is the primary input of fermentation?
+glucose
+
+What output molecule of fermentation benefits the cell?
+ATP
+
+What are the two primary types of fermentation?
+alcoholic and lactic acid
+
+What kind of alcohol is produced by alcoholic fermentation?
+ethanol
+
+What two waste products are produced by fermentation by yeast?
+ethanol and carbon dioxide
+
+What waste products are produced by fermentation by bacteria?
+lactic acid
+
+How many ATP molecules are produced per glucose by alcoholic fermentation?
+2
+
+How many ATP molecules are produced per glucose by lactic acid fermentation?
+2
+
+Does aerobic or anaerobic respiration produce ATP from glucose more efficiently?
+aerobic
