@@ -18,7 +18,7 @@
 	<!-- user interface -->
 	<div style="border:1px solid">
 		<label>Load Lesson from File:</label>
-		<input id="inputLessonFile" type="file" onchange="inputLessonFile_Changed();"></input>
+		<input id="inputLessonFile" type="file" onchange="inputLessonFile_Changed(this);"></input>
 		<br />
 
 		<label>Lesson:<label>
@@ -154,9 +154,8 @@ green
 		Globals.Instance.initialize(lessonDefn);
 	}
 
-	function inputLessonFile_Changed(event)
+	function inputLessonFile_Changed(inputLessonFile)
 	{
-		var inputLessonFile = event.target;
 		var file = inputLessonFile.files[0];
 
 		if (file == null)
