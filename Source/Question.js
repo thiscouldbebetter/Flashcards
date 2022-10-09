@@ -1,7 +1,10 @@
 
-function Question(presentation, responseCorrect, context)
+class Question
 {
-	this.presentation = presentation;
-	this.responseCorrect = responseCorrect;
-	this.context = context;
+	constructor(presentation, responseCorrect, context)
+	{
+		this.presentation = presentation;
+		this.responseCorrect = responseCorrect;
+		this.context = context;
+	}
 }
