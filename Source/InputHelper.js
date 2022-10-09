@@ -1,26 +1,22 @@
 
-
-function InputHelper()
+class InputHelper
 {
-	// do nothing
-}
-
-{
-	InputHelper.prototype.initialize = function()
+	initialize()
 	{
 		document.body.onkeydown = this.handleEventKeydown.bind(this);
 	}
 
 	// event handlers
 
-	InputHelper.prototype.handleEventKeydown = function(event)
+	handleEventKeydown(event)
 	{
 		if (event.key == "Enter")
 		{
-			var inputResponse = document.getElementById("inputResponse");
+			var d = document;
+			var inputResponse = d.getElementById("inputResponse");
 			var responseActual = inputResponse.value.trim();
 
-			var lessonRun = Globals.Instance.lessonRun;
+			var lessonRun = Globals.Instance().lessonRun;
 
 			var responseExpected = lessonRun.responseExpected();
 
@@ -32,20 +28,23 @@ function InputHelper()
 			}
 			else
 			{
-				lessonRun.responseIncorrect(responseRecordCurrent, responseExpected, responseActual);
+				lessonRun.responseIncorrect
+				(
+					responseRecordCurrent, responseExpected, responseActual
+				);
 			}
 
-			if (lessonRun.isComplete() == true)
+			if (lessonRun.isComplete())
 			{
 				lessonRun.complete();
-				document.body.onkeydown = null;
+				d.body.onkeydown = null;
 			}
 			else
 			{
 				lessonRun.questionAdvance();
 			}
 
-			Globals.Instance.displayHelper.displayLessonRun
+			Globals.Instance().display.displayLessonRun
 			(
 				lessonRun
 			);

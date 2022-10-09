@@ -8,21 +8,39 @@
 
 <body>
 
-<p>The JavaScript program below prompts for a lesson file, and, when one is provided, quizzes the user with the questions from it.  When the user answers all questions correctly the specified times in a row, the lesson is counted as complete.</p>
+<p>
+	The JavaScript program below prompts for a lesson file, and,
+	when one is provided, quizzes the user with the questions from it.
+	When the user answers all questions correctly the specified number of
+	times in a row, the lesson is counted as complete.
+</p>
 
-<p>The lesson file should be a text file.  Question and answer pairs are delimited by blank lines.  The final line before the blank line is the answer; all the preceding lines are part of the question.  Any lines that start with "<" are interpreted as HTML.</p>
+<p>
+	The lesson file should be a text file.  Question and answer pairs
+	are delimited by blank lines.  The final line before the blank line
+	is the answer; all the preceding lines are part of the question. 
+	Any lines that start with "&lt;" are interpreted as HTML.
+</p>
 
-<p>A sample lesson is provided.  More lessons are linked from <a href="../Data/Subjects.html">this page</a>.
+<p>
+	A sample lesson is provided.
+	More lessons are linked from <a href="../Data/Subjects.html">this page</a>.
+</p>
 
 <div id="divMain">
 	<!-- user interface -->
 	<div style="border:1px solid">
 		<label>Load Lesson from File:</label>
-		<input id="inputLessonFile" type="file" onchange="inputLessonFile_Changed(this);"></input>
+		<input
+			id="inputLessonFile"
+			type="file"
+			onchange="UiEventHandler.inputLessonFile_Changed(this);"
+		>
+		</input>
 		<br />
 
 		<label>Lesson:<label>
-		<button onclick="buttonLessonShowHide_Clicked();">Show/Hide</button>
+		<button onclick="UiEventHandler.buttonLessonShowHide_Clicked();">Show/Hide</button>
 		<br />
 		<textarea id="textareaLesson" cols="40" rows="10">
 amarillo
@@ -82,7 +100,7 @@ green
 			<input id="inputTimesCorrectPerQuestion" type="number" value="3" style="width:32px"></input>
 		</div>
 
-		<button id="buttonStart" onclick="buttonStart_Clicked();">Start Lesson</button>
+		<button id="buttonStart" onclick="UiEventHandler.buttonStart_Clicked();">Start Lesson</button>
 	</div>
 
 	<div style="border:1px solid">
@@ -103,9 +121,9 @@ green
 
 <script type="text/javascript">
 
-	// ui events
-
-	function buttonLessonShowHide_Clicked()
+class UiEventHandler
+{
+	static buttonLessonShowHide_Clicked()
 	{
 		var textareaLesson = document.getElementById("textareaLesson");
 		if (textareaLesson.style.display == "none")
@@ -118,7 +136,7 @@ green
 		}
 	}
 
-	function buttonStart_Clicked()
+	static buttonStart_Clicked()
 	{
 		var inputPartIndexPlusOne = document.getElementById("inputPartIndexPlusOne");
 		var partIndex = parseInt(inputPartIndexPlusOne.value) - 1;
@@ -151,10 +169,10 @@ green
 			timesCorrectPerQuestion
 		);
 
-		Globals.Instance.initialize(lessonDefn);
+		Globals.Instance().initialize(lessonDefn);
 	}
 
-	function inputLessonFile_Changed(inputLessonFile)
+	static inputLessonFile_Changed(inputLessonFile)
 	{
 		var file = inputLessonFile.files[0];
 
@@ -170,17 +188,18 @@ green
 		}
 	}
 
-	function inputLessonFile_Changed_FileLoaded(event)
+	static inputLessonFile_Changed_FileLoaded(event)
 	{
 		var fileContents = event.target.result;
 		var textareaLesson = document.getElementById("textareaLesson");
 		textareaLesson.value = fileContents;
 	}
+}
 
 </script>
 
 <script type="text/javascript" src="ArrayExtensions.js"></script>
-<script type="text/javascript" src="DisplayHelper.js"></script>
+<script type="text/javascript" src="Display.js"></script>
 <script type="text/javascript" src="Globals.js"></script>
 <script type="text/javascript" src="InputHelper.js"></script>
 <script type="text/javascript" src="LessonDefn.js"></script>

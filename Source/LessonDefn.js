@@ -1,14 +1,21 @@
 
-function LessonDefn(questions, arePresentationAndResponseReversed, isOrderRandomized, timesCorrectPerQuestion)
+class LessonDefn
 {
-	this.questions = questions;
-	this.arePresentationAndResponseReversed = arePresentationAndResponseReversed;
-	this.isOrderRandomized = isOrderRandomized;
-	this.timesCorrectPerQuestion = timesCorrectPerQuestion;
-}
+	constructor
+	(
+		questions,
+		arePresentationAndResponseReversed,
+		isOrderRandomized,
+		timesCorrectPerQuestion
+	)
+	{
+		this.questions = questions;
+		this.arePresentationAndResponseReversed = arePresentationAndResponseReversed;
+		this.isOrderRandomized = isOrderRandomized;
+		this.timesCorrectPerQuestion = timesCorrectPerQuestion;
+	}
 
-{
-	LessonDefn.build = function
+	static build
 	(
 		lessonFileContents,
 		partIndex,
@@ -60,7 +67,8 @@ function LessonDefn(questions, arePresentationAndResponseReversed, isOrderRandom
 		}
 
 		var numberOfQuestionsInFullLesson = questions.length;
-		var questionsPerPart = Math.ceil(numberOfQuestionsInFullLesson / numberOfParts);
+		var questionsPerPart =
+			Math.ceil(numberOfQuestionsInFullLesson / numberOfParts);
 		var questionIndexFirstInPart = questionsPerPart * partIndex;
 
 		questions = questions.slice

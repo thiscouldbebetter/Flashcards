@@ -1,6 +1,9 @@
 
-function ResponseRecord()
+class ResponseRecord
 {
-	this.timesIncorrect = 0;
-	this.timesCorrect = 0;
+	constructor()
+	{
+		this.timesIncorrect = 0;
+		this.timesCorrect = 0;
+	}
 }

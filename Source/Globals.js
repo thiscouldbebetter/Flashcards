@@ -1,29 +1,28 @@
 
-function Globals()
+class Globals
 {
-	// do nothing
-}
+	static Instance()
+	{
+		if (Globals._instance == null)
+		{
+			Globals._instance = new Globals();
+		}
+		return Globals._instance;
+	}
 
-{
-	// instance
-
-	Globals.Instance = new Globals();
-
-	// methods
-
-	Globals.prototype.initialize = function(lessonDefn)
+	initialize(lessonDefn)
 	{
 		this.lessonDefn = lessonDefn;
 
 		this.lessonRun = new LessonRun(this.lessonDefn);
 
-		this.displayHelper = new DisplayHelper();
+		this.display = new Display();
 		this.inputHelper = new InputHelper();
 
 		this.lessonRun.initialize();
 
 		this.inputHelper.initialize();
 
-		this.displayHelper.displayLessonRun(this.lessonRun);
+		this.display.displayLessonRun(this.lessonRun);
 	}
 }
