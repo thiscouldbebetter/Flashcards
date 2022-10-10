@@ -80,9 +80,9 @@ green
 
 		<div>
 			<label>Part:</label>
-			<input id="inputPartIndexPlusOne" type="number" value="1" style="width:32px"></input>
+			<input id="inputPartIndexPlusOne" type="number" value="1" style="width:40px"></input>
 			<label>of</label>
-			<input id="inputNumberOfParts" type="number" value="1" style="width:32px"></input>
+			<input id="inputNumberOfParts" type="number" value="1" style="width:40px"></input>
 		</div>
 
 		<div>
@@ -183,7 +183,7 @@ class UiEventHandler
 		else
 		{
 			var fileReader = new FileReader();
-			fileReader.onload = inputLessonFile_Changed_FileLoaded;
+			fileReader.onload = UiEventHandler.inputLessonFile_Changed_FileLoaded;
 			fileReader.readAsText(file);
 		}
 	}
