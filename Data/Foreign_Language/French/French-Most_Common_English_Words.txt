@@ -1,32 +1,32 @@
-la
+le, la
 the
 
 être
-be
+to be
 
 de
-of
+of, from
 
 et
 and
 
 à
-to
+to, in, at
 
 un
 a
 
 dans
-in
+in, into, within
 
-ont
-have
+avoir
+to have
 
-ce
-it
+ce, cette
+this, that, it
 
 tu
-you
+you, thou
 
 pour
 for
@@ -34,161 +34,131 @@ for
 ne pas
 not
 
-ce
-that
-
 sur
-on
+on, about, over, along, upon
 
 avec
 with
 
-fais
-do
+faire
+to do, to make
 
 comme
-as
+as, like
 
 il
-he
+he, it
 
 nous
-we
+we, us
 
-cette
-this
-
-à
-at
-
-elles ou ils
+elles, ils
 they
 
 mais
 but
 
-de
-from
-
 par
 by
-
-sera
-will
 
 ou
 or
 
-le sien
-his
-
 dire
-say
+to say, to tell
 
 aller
-go
+to go
 
 elle
 she
 
 alors
-so
+then
 
 tout
-all
-
-sur
-about
+all, everything
 
 si
-if
+if, whether
 
 une
 one
 
-ma
+ma, mon
 my
 
 connaître
-know
+to know
 
 là
 there
 
 qui
-which
+which, that, who, whom
 
-boîte
-can
+pouvoir
+can, may
 
 obtenir
-get
+to get
 
-son
-her
+ses, son, sa
+his, her, its
 
-aurait
+voudrais
 would
 
-pense
-think
+penser
+to think
 
-Comme
-like
-
-Suite
-more
+plus
+more, most
 
 leur
-their
+their, them
 
-ton
+votre
 your
 
 lorsque
 when
 
-Quel
-what
-
-Fabriquer
-make
+que
+which, what, than
 
 temps
 time
 
-qui
-who
-
 voir
-see
+to see, to look
 
 en haut
 up
 
-personnes
+gens
 people
 
-quelques
+quelque
 some
 
 dehors
-out
+out, outside
 
 moi
 me
 
-bien
+bon
 good
 
 autre
-other
+other, else
 
 an
 year
 
 bien
-well
+well, fine
 
 notre
 our
@@ -199,68 +169,50 @@ very
 juste
 just
 
-leur
-them
-
 non
 no
 
 prendre
-take
+to take, to pick
 
 car
 because
 
-viens
-come
+venir
+to come
 
 pourrait
-could
+could, might
 
-utilisation
-use
+utiliser
+to use
 
 travailler
-work
+to work
 
-alors
-then
-
-à présent
+maintenant
 now
 
 aussi
-also
-
-que
-than
+also, too
 
 lui
 him
-
-dans
-into
 
 seulement
 only
 
 vouloir
-want
-
-voir
-look
+to want
 
 ces
 these
 
-son
-its
-
-Nouveau
+nouvelle
 new
 
 donner
-give
+to give
 
 première
 first
@@ -271,11 +223,8 @@ way
 chose
 thing
 
-n'importe quel
+des
 any
-
-plus de
-over
 
 droit
 right
@@ -284,25 +233,22 @@ après
 after
 
 trouver
-find
+to find
 
-journée
+jour
 day
 
 où
 where
 
-plus
-most
-
-devrait
-should
+devoir
+should, must, shall
 
 besoin
 need
 
 beaucoup
-much
+much, many, a lot
 
 comment
 how
@@ -310,17 +256,11 @@ how
 retour
 back
 
-moyenne
-mean
+signifier
+to mean
 
-peut
-may
-
-tel
+tel, -le
 such
-
-nous
-us
 
 ici
 here
@@ -329,7 +269,7 @@ vraiment
 really
 
 même
-even
+same, even
 
 compagnie
 company
@@ -337,20 +277,14 @@ company
 ceux
 those
 
-de nombreux
-many
-
 enfant
-child
+child, kid
 
-raconter
-tell
-
-dernière
+dernier, -ière
 last
 
-appel
-call
+appeler
+to call
 
 vers le bas
 down
@@ -365,52 +299,46 @@ homme
 man
 
 à travers
-through
+through, across, throughout
 
-Afficher
-show
+montrer
+to show
 
-la vie
+vie
 life
 
 entre
 between
 
-parcelle
-lot
-
-se sentir
-feel
+sentir
+to feel
 
 place
 place
 
-monnaie
-change
+changer
+to change
 
+long, -ue
 long
-long
-
-aussi
-too
 
 pause
-pause
+pause, break
 
 toujours
-still
+always, still
 
-écrivez
-write
+écrire
+to write
 
 problème
-problem
+problem, issue
 
 parler
-talk
+to talk, to speak
 
 essayer
-try
+to try
 
 quelque chose
 something
@@ -418,46 +346,46 @@ something
 pas clair
 unclear
 
-même
-same
-
-génial
+génial, -e
 great
 
-Numéro
+nombre
 number
 
-Pars
-leave
+quitter
+to leave
 
 peu
-little
+little, few, a bit
 
 tous les deux
 both
 
 rencontrer
-meet
+to meet
 
 aider
-help
+to help
 
-posséder
+propre
 own
 
-interroger
-ask
+posséder
+to own
 
-partie
+demander
+to ask, to request
+
+part, -ie
 part
 
 pays
 country
 
 mettre
-put
+to put
 
-indiquer
+point
 point
 
 début
@@ -470,12 +398,12 @@ chaque
 each
 
 devenir
-become
+to become
 
 intérêt
 interest
 
-Agé de
+vieux, vieille
 old
 
 à l'arrêt
@@ -487,23 +415,23 @@ another
 différent
 different
 
-haute
-high
+haut, -e
+high, top, tall
 
-Suivant
+suivant, -e
 next
 
-comprendre
-include
+inclure
+to include
 
 en retard
 late
 
-Pourquoi
+pourquoi
 why
 
-Direct
-live
+vivre
+to live
 
 fin
 end
@@ -511,11 +439,8 @@ end
 monde
 world
 
-la semaine
+semaine
 week
-
-devoir
-must
 
 tandis que
 while
@@ -523,26 +448,23 @@ while
 jamais
 never
 
-étude
-study
+étudier
+to study
 
-gentil
+gentil, -le
 kind
 
 rapport
 report
 
 jouer
-play
+to play
 
-loger
+maison
 house
 
 groupe
 group
-
-force
-might
 
 domicile
 home
@@ -551,19 +473,19 @@ cours
 course
 
 laisser
-let
+to let
 
-Cas
+cas
 case
 
 système
 system
 
 encore
-again
+again, yet
 
 écouter
-hear
+to hear, to listen to
 
 femme
 woman
@@ -572,10 +494,10 @@ famille
 family
 
 livre
-book
+book, pound
 
 sembler
-seem
+to seem
 
 autour de
 around
@@ -583,20 +505,20 @@ around
 durant
 during
 
-donjon
-keep
+garder
+to keep
 
 gros
 big
 
 suivre
-follow
+to follow
 
 tous
 every
 
 question
-question
+question, matter
 
 en dessous de
 under
@@ -604,38 +526,35 @@ under
 important
 important
 
-toujours
-always
-
-ami
+ami, -e
 friend
 
 toutefois
 however
 
-Positionner
-set
+mettre en place
+to set, to establish
 
 main
 hand
 
-apporter
-provide
+fournir
+to provide, to supply
 
 petit
 small
 
-tour
-turn
+tourner
+to turn
 
-Etat
+etat
 state
 
 commencer
-begin
+to begin
 
-Cours
-run
+courir
+to run
 
 puisque
 since
@@ -646,11 +565,8 @@ early
 argent
 money
 
-peu
-few
-
 apporter
-bring
+to bring
 
 marché
 market
@@ -658,13 +574,13 @@ market
 informations
 information
 
-Région
+région
 area
 
-mouvement
-move
+bouger
+to move
 
-Entreprise
+affaires
 business
 
 service
@@ -676,11 +592,8 @@ government
 fait
 fact
 
-publier
-issue
-
 remercier
-thank
+to thank
 
 grand
 large
@@ -688,8 +601,8 @@ large
 résultat
 result
 
-lis
-read
+lire
+to read
 
 mois
 month
@@ -697,53 +610,62 @@ month
 ordre
 order
 
-augmenter
-increase
+commander
+to order
 
-Nom
+augmenter
+to increase
+
+nom
 name
 
 aimer
-love
+to love
 
 mot
 word
 
-sans pour autant
+sans
 without
 
 ouvert
 open
 
-Payer
-pay
+ouvrir
+to open
+
+payer
+to pay
 
 offrir
+to offer
+
+offre
 offer
 
 construire
-build
+to build
 
 je
 I
 
 tenir
-hold
+to hold
 
-se produire
-happen
+se passer
+to happen
 
 contre
 against
 
-une façon
-away
+loin
+away, far
 
 travail
 job
 
 acheter
-buy
+to buy
 
 pourtant
 though
@@ -751,14 +673,14 @@ though
 aujourd'hui
 today
 
-Exemple
-example
+exemple
+example, instance
 
 croire
-believe
+to believe
 
 planifier
-plan
+to plan
 
 deuxième
 second
@@ -769,16 +691,19 @@ program
 étudiant
 student
 
-formulaire
+former
+to form
+
+forme
 form
 
-Jeune
+jeune
 young
 
-conduire
-lead
+menir
+to lead
 
-Visage
+visage
 face
 
 proche
@@ -790,7 +715,10 @@ room
 espoir
 hope
 
-Coût
+espérer
+to hope
+
+coût
 cost
 
 tête
@@ -800,31 +728,31 @@ auto
 car
 
 comprendre
-understand
+to understand
 
 heure
 hour
-
-loin
-far
 
 réellement
 actually
 
 dépenser
-spend
+to spend
 
 niveau
 level
 
 ville
-city
+city, town
 
 cadeau
-present
+gift
+
+présenter
+to present
 
 moins
-less
+less, least
 
 idée
 idea
@@ -833,7 +761,7 @@ raison
 reason
 
 apprendre
-learn
+to learn, to teach
 
 jusqu'à
 until
@@ -842,43 +770,40 @@ membre
 member
 
 traiter
-process
+to treat, to process
 
-la personne
+personne
 person
 
-vivre
+expérience
 experience
 
 nuit
 night
 
-Support
-support
+soutenir
+to support
 
-Bien sur
+sûr
 sure
 
+sorte, type
+sort, type, kind
+
 trier
-sort
+to sort
 
 assez
-quite
+quite, enough
 
 mal
 bad
 
-une fois que
+une fois
 once
-
-suffisant
-enough
 
 même si
 although
-
-dans
-within
 
 âge
 age
@@ -886,14 +811,11 @@ age
 terme
 term
 
-qu'il s'agisse
-whether
-
-pouvoir
+capable
 able
 
 partager
-share
+to share
 
 ligne
 line
@@ -901,13 +823,13 @@ line
 produit
 product
 
-parler
-speak
-
 côté
 side
 
-former
+entraîner
+to train
+
+train
 train
 
 bientôt
@@ -916,10 +838,10 @@ soon
 bas
 low
 
-le prix
+prix
 price
 
-Publique
+publique
 public
 
 souvent
@@ -928,14 +850,11 @@ often
 possible
 possible
 
-moins
-least
-
 parent
 parent
 
 envisager
-consider
+to consider
 
 effet
 effect
@@ -944,13 +863,13 @@ plutôt
 rather
 
 contrôler
-control
+to control
 
-voir
+vue
 view
 
 histoire
-story
+story, history
 
 local
 local
@@ -962,124 +881,115 @@ ensemble
 together
 
 évaluer
-value
+to value
 
 dur
 hard
 
-supporter
-stand
+se lever
+to rise, to stand up
 
-visite
-visit
+visiter
+to visit
 
-Regardez
-watch
+regarder
+to watch
 
-Couleur
+couleur
 color
 
-faire la fête
+fête
 party
 
-bit
-bit
-
-Continuez
-continue
+continuer
+to continue
 
 déjà
-ever
+already, ever
 
-œil
+oeil
 eye
 
 base
 base
 
-préoccuper
+préoccupation
 concern
 
 lettre
 letter
 
 centre
-centre
+center
 
 perdre
-lose
-
-encore
-yet
+to lose
 
 presque
-almost
+almost, nearly
 
 développement
 development
 
-déjà
-already
-
 test
 test
 
-Probablement
+probablement
 probably
 
-vendre
+vente
 sale
-
-évaluer
-rate
 
 rien
 nothing
 
-ensemble
-whole
+entier
+whole, entire
 
 suggérer
-suggest
+to suggest
 
-Langue
+langue
 language
 
 accord
-deal
+deal, agreement
 
 envoyer
-send
+to send
 
 attendre
-expect
+to wait, to expect
 
 tomber
-fall
+to fall
 
 revenir
-return
+to return
 
-l'eau
+eau
 water
 
 par
 per
 
-Autoriser
-allow
+autoriser
+to allow
 
 cause
 cause
 
-Puissance
+causer
+to cause
+
+puissance
 power
 
 asseoir
-sit
+to sit
 
-marche
-walk
+marcher
+to walk, to step
 
 mère
 mother
@@ -1088,46 +998,52 @@ parmi
 among
 
 se soucier
-care
+to care about
 
 matière
 subject
 
 développer
-develop
+to develop
 
 rester
-stay
+to stay, to remain
 
 enregistrement
 record
 
-dérange
+enregistrer
+to record
+
+esprit
 mind
 
-rappelles toi
-remember
+déranger
+to bother
+
+rappeller, se souvenir
+to remember
 
 passé
 past
 
-Bureau
+bureau
 office
 
-Obliger
+forcer
+to force
+
+force
 force
 
 grandir
-grow
-
-ville
-town
+to grow
 
 lumière
 light
 
-arrêt
-stop
+arrêter
+to stop
 
 plusieurs
 several
@@ -1135,11 +1051,11 @@ several
 période
 period
 
-classer
+classe
 class
 
-question
-matter
+classer
+to classify
 
 aliments
 food
@@ -1148,18 +1064,18 @@ social
 social
 
 exiger
-require
+to require
 
 politique
 political
 
 gagner
-win
+to win, to earn
 
 décider
-decide
+to decide
 
-Personnel
+personnel
 staff
 
 chiffre
@@ -1169,36 +1085,36 @@ réel
 real
 
 avenir
-future
+coming, future
 
 politique
 policy
 
 réponse
-answer
+answer, reply
 
 rire
-laugh
+to laugh
 
 rester
-remain
+to remain
 
 depuis
 ago
 
 taper
-type
+to type
 
-magasin
-shop
+magasin, boutique
+shop, store
 
-Sécurité
+sécurité
 security
 
 recevoir
-receive
+to receive
 
-Remarque
+remarque
 note
 
 minute
@@ -1207,29 +1123,23 @@ minute
 fonds
 fund
 
-Haut
+haut
 top
 
-Jeu
+jeu
 game
 
 impliquer
-involve
+to involve, to imply
 
-Compte
+compte
 account
 
 demi
 half
 
-l'histoire
-history
-
 créer
-create
-
-Pause
-break
+to create
 
 moment
 moment
@@ -1237,10 +1147,7 @@ moment
 individuel
 individual
 
-de l'autre côté
-across
-
-Soit
+soit
 either
 
 musique
@@ -1250,46 +1157,40 @@ plus loin
 further
 
 atteindre
-reach
+to reach, to achieve
 
 dégager
-clear
+to clear, to disengage
 
 régner
-rule
+to rule
 
-l'ordinateur
+ordinateur
 computer
 
-Attendez
-wait
-
-du son
+son
 sound
 
 équipe
-team
-
-sur
-along
+team, crew
 
 rechercher
-research
+to research
 
 apparaître
-appear
+to appear
 
 conduire
-drive
+to drive
 
 activité
 activity
 
-le noir
+noir, -e
 black
 
 produire
-produce
+to produce
 
 libre
 free
@@ -1310,28 +1211,25 @@ sens
 sense
 
 peut-être
-perhaps
+maybe, perhaps
 
 ajouter
-add
+to add
 
-tout
-everything
-
-droit
+loi
 law
 
 facile
-easy
+easy, simple
 
 vendre
-sell
+to sell
 
 plein
 full
 
 film
-film
+film, movie
 
 maquette
 model
@@ -1343,19 +1241,16 @@ vers l'avant
 forward
 
 lui-même
-himself
-
-peut être
-maybe
+himself, itself
 
 motif
 design
 
-Matin
+matin
 morning
 
 passer
-pass
+to pass
 
 condition
 condition
@@ -1366,7 +1261,7 @@ near
 porte
 door
 
-Humain
+humain
 human
 
 au dessus
@@ -1378,8 +1273,8 @@ available
 position
 position
 
-Je suis d'accord
-agree
+être d'accord
+to agree
 
 court
 short
@@ -1393,7 +1288,7 @@ paper
 couverture
 cover
 
-Majeur
+majeur, -e
 major
 
 client
@@ -1405,22 +1300,25 @@ father
 ours
 bear
 
+supporter
+to bear
+
 choisir
-choose
+to choose
 
 principale
 main
 
-décris
-describe
+décrire
+to describe
 
 quelqu'un
-someone
+someone, somebody
 
-Date
+date
 date
 
-un événement
+événement
 event
 
 agréable
@@ -1432,17 +1330,14 @@ special
 certain
 certain
 
-téléphoner
-phone
+téléphone
+telephone
 
-rejoindre
-join
-
-autre
-else
+joindre
+to join
 
 fille
-girl
+girl, daughter
 
 quelquefois
 sometimes
@@ -1454,7 +1349,7 @@ communauté
 community
 
 porter
-carry
+to carry, to wear
 
 décision
 decision
@@ -1462,29 +1357,29 @@ decision
 rôle
 role
 
-Président
+président
 president
 
 particulier
 particular
 
-Couper
-cut
+couper
+to cut
 
 différence
 difference
 
 mourir
-die
+to die
 
 manger
-eat
+to eat
 
 prendre plaisir
-enjoy
+to enjoy
 
 monter
-rise
+to climb, to ascend
 
 surtout
 especially
@@ -1492,7 +1387,7 @@ especially
 détail
 detail
 
-Les données
+données
 data
 
 charge
@@ -1505,10 +1400,7 @@ cellule
 cell
 
 améliorer
-improve
-
-enfant
-kid
+to improve
 
 action
 action
@@ -1528,14 +1420,11 @@ economic
 difficile
 difficult
 
-qui concerne
-regard
-
 voyager
-travel
+to travel
 
 approcher
-approach
+to approach
 
 montant
 amount
@@ -1543,13 +1432,13 @@ amount
 investissement
 investment
 
-blanche
+blanc, -he
 white
 
 dessiner
-draw
+to draw
 
-placer
+site
 site
 
 tour
@@ -1559,10 +1448,7 @@ derrière
 behind
 
 réclamer
-claim
-
-marcher
-step
+to claim
 
 patient
 patient
@@ -1570,7 +1456,7 @@ patient
 vrai
 true
 
-prof
+professeur, -e
 teacher
 
 intervalle
@@ -1586,25 +1472,25 @@ organisme
 organization
 
 voter
-vote
+to vote
 
-de face
+devant
 front
 
 mesure
 measure
 
-Commerce
+commerce
 trade
 
-Donc
-therefore
+donc
+so, thus, therefore
 
 finalement
 finally
 
 soulever
-raise
+to raise
 
 usure
 wear
@@ -1612,8 +1498,8 @@ wear
 industrie
 industry
 
-Explique
-explain
+expliquer
+to explain
 
 relation
 relationship
@@ -1621,14 +1507,8 @@ relationship
 qualité
 quality
 
-accord
-accord
-
-à l'extérieur
-outside
-
 souhaiter
-wish
+to wish
 
 décès
 death
@@ -1637,10 +1517,13 @@ projet
 project
 
 terrain
-land
+land, ground
 
-pancarte
+signe
 sign
+
+signer
+to sign
 
 garçon
 boy
@@ -1666,65 +1549,62 @@ list
 occasion
 opportunity
 
-loi
-act
+agir
+to act
 
 sport
 sport
 
-route
+chemin, route
 road
 
 tuer
-kill
+to kill
 
-servez
-serve
+servir
+to serve
 
 éducation
 education
 
 image
-picture
+picture, image
 
 probable
 likely
 
-la norme
+norme
 standard
 
-bénéficier à
+profiter
 benefit
 
-organiser
+étape
 stage
 
 performance
 performance
 
-le repos
+repos
 rest
+
+se reposer
+to rest
 
 assurément
 certainly
 
-Culture
+culture
 culture
 
 se concentrer
 focus
 
-lui-même
-itself
-
 arriver
-arrive
+to arrive, to occur
 
 employé
 employee
-
-sur
-upon
 
 voix
 voice
@@ -1732,7 +1612,7 @@ voice
 exigible
 due
 
-La technologie
+technologie
 technology
 
 champ
@@ -1741,14 +1621,11 @@ field
 air
 air
 
-Matériel
+matériel
 material
 
 courant
 current
-
-apprendre
-teach
 
 financier
 financial
@@ -1759,7 +1636,7 @@ century
 société
 society
 
-une analyse
+analyse
 analysis
 
 limite
@@ -1769,21 +1646,18 @@ preuve
 evidence
 
 réduire
-reduce
-
-Ecoutez
-listen
+to reduce
 
 d'habitude
 usually
 
 mentir
-lie
+to lie
 
-le pied
+pied
 foot
 
-Célibataire
+célibataire
 single
 
 commun
@@ -1792,8 +1666,8 @@ common
 espace
 space
 
-prendre conscience de
-realize
+réaliser
+to realize
 
 ancien
 former
@@ -1801,22 +1675,19 @@ former
 animal
 animal
 
-Au lieu
+au lieu
 instead
 
 similaire
 similar
 
-Donc
-thus
-
 adresse
 address
 
 chef
-leader
+leader, chief
 
-Achevée
+achevée
 complete
 
 bras
@@ -1834,7 +1705,7 @@ mention
 facteur
 factor
 
-Contactez
+contacter
 contact
 
 réponse
@@ -1844,31 +1715,28 @@ demande
 demand
 
 exister
-exist
+to exist
 
-J'accepte
-accept
+accepter
+to accept
 
 enregistrer
-save
+to save
 
 opinion
 opinion
-
-prendre
-pick
 
 mauvais
 wrong
 
 appliquer
-apply
+to apply
 
 comparer
-compare
+to compare
 
 supposer
-suppose
+to suppose
 
 choix
 choice
@@ -1880,21 +1748,18 @@ lutte
 fight
 
 relater
-relate
+to relate
 
-solidifier
+ferme
 firm
 
 caractéristique
 feature
 
-terrain
-ground
-
 effort
 effort
 
-la source
+source
 source
 
 jolie
@@ -1903,7 +1768,7 @@ pretty
 campagne
 campaign
 
-Chèque
+chèque
 check
 
 d'accord
@@ -1918,7 +1783,7 @@ foreign
 attention
 attention
 
-personnel
+personnel, -le
 personal
 
 notamment
@@ -1934,13 +1799,16 @@ connaissances
 knowledge
 
 contenir
-contain
+to contain
 
 officiel
 official
 
-rechercher
+tribunal
 court
+
+courtiser
+to court
 
 banque
 bank
@@ -1951,7 +1819,7 @@ article
 épouse
 wife
 
-la gestion
+gestion
 management
 
 gestionnaire
@@ -1961,40 +1829,34 @@ section
 section
 
 terminer
-finish
+to finish
 
-mec
+mec 
 guy
-
-bien
-fine
-
-boutique
-store
 
 attaque
 attack
 
 discuter
-discuss
+to discuss
 
-Stock
+stock
 stock
 
 préparer
-prepare
+to prepare
 
-Feu
+feu
 fire
 
 pièce
 piece
 
-cœur
+coeur
 heart
 
-Oubliez
-forget
+oublier
+to forget
 
 police
 police
@@ -2006,7 +1868,7 @@ comportement
 behavior
 
 représenter
-represent
+to represent
 
 croissance
 growth
@@ -2018,10 +1880,7 @@ vacance
 holiday
 
 affecter
-affect
-
-mettre en place
-establish
+to affect
 
 merveille
 wonder
@@ -2030,7 +1889,7 @@ pauvre
 poor
 
 faire en sorte
-manage
+to manage
 
 ajout
 addition
@@ -2050,7 +1909,7 @@ yesterday
 surprendre
 surprise
 
-Pardon
+désolé
 sorry
 
 art
@@ -2087,7 +1946,7 @@ privé
 private
 
 déterminer
-determine
+to determine
 
 été
 summer
@@ -2105,12 +1964,12 @@ moyen
 average
 
 tout le monde
-everyone
+everyone, everybody
 
 goutte
-drop
+to drop
 
-Mademoiselle
+mademoiselle
 miss
 
 important
@@ -2128,7 +1987,7 @@ tomorrow
 tentative
 attempt
 
-Région
+région
 region
 
 cent
@@ -2137,14 +1996,14 @@ cent
 course
 race
 
-devoir
-shall
-
-Contrat
+contrat
 contract
 
-le sourire
+sourire
 smile
+
+sourir
+to smile
 
 compétence
 skill
@@ -2162,9 +2021,9 @@ divers
 various
 
 remarquer
-notice
+to notice
 
-la nature
+nature
 nature
 
 population
@@ -2176,17 +2035,14 @@ key
 nation
 nation
 
-succès
-hit
-
-se produire
-occur
+frapper
+to hit, to strike
 
 plante
 plant
 
 attraper
-catch
+to catch
 
 élection
 election
@@ -2209,20 +2065,17 @@ worker
 respect
 respect
 
-Peinture
+peinture
 paint
 
-Capitale
+capitale
 capital
 
 joueur
 player
 
-presse
-press
-
-film
-movie
+presser
+to press
 
 impôt
 tax
@@ -2233,25 +2086,19 @@ environment
 fils
 son
 
-Hôtel
+hôtel
 hotel
 
-Taille
+taille
 size
 
-Objet
-item
-
-image
-image
+objet
+item, object
 
 médicament
 drug
 
-Facile
-simple
-
-En effet
+en effet
 indeed
 
 série
@@ -2261,9 +2108,9 @@ final
 final
 
 objectif
-purpose
+purpose, goal, aim
 
-la fenêtre
+fenêtre
 window
 
 traitement
@@ -2290,20 +2137,17 @@ direct
 personnage
 character
 
-Gain
+gain
 gain
 
-adapter
-fit
+s'adapter
+to fit
 
 Entrer
 enter
 
-accord
-agreement
-
 échouer
-fail
+to fail
 
 saison
 season
@@ -2312,10 +2156,7 @@ collège
 college
 
 chercher
-seek
-
-atteindre
-achieve
+to seek, to search
 
 belle
 beautiful
@@ -2333,13 +2174,13 @@ vêtements
 clothes
 
 assister à
-attend
+to attend
 
-Succès
+succès
 success
 
 se disputer
-argue
+to argue
 
 manque
 lack
@@ -2351,13 +2192,13 @@ option
 option
 
 tirer
-pull
+to pull
 
 église
 church
 
 se
-herself
+herself, itself
 
 avantage
 advantage
@@ -2369,12 +2210,12 @@ lien
 link
 
 indiquer
-indicate
+to indicate
 
-objectif
-aim
+viser
+to aim
 
-le revenu
+revenu
 income
 
 spécifique
@@ -2386,11 +2227,11 @@ floor
 discussion
 discussion
 
-associé
-associate
+associer
+to associate
 
 reconnaître
-recognize
+to recognize
 
 arbre
 tree
@@ -2408,12 +2249,12 @@ défi
 challenge
 
 dépendre
-depend
+to depend
 
 large
 wide
 
-De toute façon
+de toute façon
 anyway
 
 mile
@@ -2422,7 +2263,7 @@ mile
 planche
 board
 
-la solution
+solution
 solution
 
 clairement
@@ -2438,19 +2279,19 @@ relation
 relation
 
 marier
-marry
+to marry
 
 en dépit
 despite
 
-la théorie
+théorie
 theory
 
 introduire
-introduce
+to introduce
 
 prouver
-prove
+to prove
 
 aptitude
 ability
@@ -2464,13 +2305,16 @@ modern
 docteur
 doctor
 
-Libération
-release
+libérer
+to release
 
 score
 score
 
 accéder
+to access
+
+accés
 access
 
 télévision
@@ -2482,7 +2326,7 @@ target
 prêt
 ready
 
-la grève
+grève
 strike
 
 carte
@@ -2494,28 +2338,28 @@ potential
 motif
 pattern
 
-l'horloge
+horloge
 clock
 
 organiser
-organize
+to organize, to arrange
 
 village
 village
-
-presque
-nearly
 
 préfère
-prefer
+to prefer
 
 mouvement
 movement
 
 proposer
-propose
+to propose
 
 deviner
+to guess
+
+conjecture
 guess
 
 opération
@@ -2524,13 +2368,16 @@ operation
 craindre
 fear
 
-Cheveu
+cheveu
 hair
 
 voyage
-trip
+trip, journey, voyage
 
-la fourniture
+to trip
+faire trébucher
+
+provision
 supply
 
 rapidement
@@ -2540,7 +2387,7 @@ application
 application
 
 dormir
-sleep
+to sleep
 
 réseau
 network
@@ -2584,8 +2431,11 @@ pressure
 tâche
 task
 
-Express
 express
+express
+
+exprimer
+to express
 
 concurrence
 competition
@@ -2596,29 +2446,23 @@ serious
 référence
 reference
 
-traiter
-treat
-
 conclusion
 conclusion
 
 frère
 brother
 
-Naturel
+naturel, -le
 natural
 
 toucher
-touch
-
-Tout le monde
-everybody
+to touch
 
 au-delà
 beyond
 
 définir
-define
+to define
 
 base
 basis
@@ -2626,7 +2470,7 @@ basis
 difficulté
 trouble
 
-Profond
+profond
 deep
 
 énergie
@@ -2639,13 +2483,13 @@ foncé
 dark
 
 chanter
-sing
+to sing
 
 goûter
 sample
 
 se référer à
-refer
+to refer
 
 adulte
 adult
@@ -2660,22 +2504,25 @@ maladie
 disease
 
 promettre
-promise
+to promise
 
 jeter
-throw
+to throw
 
 robe
 dress
 
-la peine
+valeur
 worth
 
+valoir
+to be worth
+
 nettoyer
-clean
+to clean
 
 remplir
-fill
+to fill
 
 propriété
 property
@@ -2683,11 +2530,8 @@ property
 profit
 profit
 
-quelqu'un
-somebody
-
 fonctionner
-operate
+to operate
 
 bar
 bar
@@ -2695,10 +2539,7 @@ bar
 avance
 advance
 
-objectif
-goal
-
-trimestre
+quart
 quarter
 
 central
@@ -2707,9 +2548,6 @@ central
 froid
 cold
 
-objet
-object
-
 style
 style
 
@@ -2717,22 +2555,22 @@ style
 obviously
 
 pousser
-push
+to push
 
 tendre
-tend
+to tend
 
 présumer
-assume
+to assume
 
-Ordinaire
+ordinaire
 normal
 
 échanger
-exchange
+to exchange
 
 souffrir
-suffer
+to suffer
 
 milieu
 middle
@@ -2747,13 +2585,13 @@ officier
 officer
 
 éviter de
-avoid
+to avoid
 
 refléter
-reflect
+to reflect
 
 utile
-useful
+useful, helpful
 
 amusement
 fun
@@ -2761,22 +2599,19 @@ fun
 énorme
 huge
 
-exemple
-instance
-
 siège
 seat
 
 document
 document
 
-pétrole
+huile
 oil
 
 message
 message
 
-rapporter
+net
 net
 
 couronné de succès
@@ -2785,14 +2620,8 @@ successful
 boîte
 box
 
-Ressource
+ressource
 resource
-
-livre
-pound
-
-à travers
-throughout
 
 facilité
 facility
@@ -2812,17 +2641,14 @@ speech
 séparé
 separate
 
-Masculin
+masculin
 male
 
 bébé
 baby
 
-gagner
-earn
-
 maintenir
-maintain
+to maintain
 
 carrière
 career
@@ -2837,16 +2663,13 @@ doute
 doubt
 
 exercer
-exercise
+to exercise
 
 précédent
 previous
 
 du quotidien
 daily
-
-chercher
-search
 
 soudain
 suddenly
@@ -2857,20 +2680,20 @@ fly
 de base
 basic
 
-bague
+anneau
 ring
 
 actif
 asset
 
-la science
+science
 science
 
 chien
 dog
 
 effectuer
-perform
+to perform
 
 solde
 balance
@@ -2885,16 +2708,16 @@ morte
 dead
 
 encourager
-encourage
+to encourage
 
 protéger
-protect
+to protect
 
 dégâts
 damage
 
 imaginer
-imagine
+to imagine
 
 après midi
 afternoon
@@ -2902,20 +2725,23 @@ afternoon
 estimation
 estimate
 
-photo
-photo
+estimer
+to estimate
 
-le contexte
+photographier
+to photograph
+
+photographe
+photograph
+
+contexte
 context
 
-un journal
+journal
 newspaper
 
-le crédit
+crédit
 credit
-
-la fille
-daughter
 
 variété
 variety
@@ -2924,24 +2750,21 @@ version
 version
 
 se déployer
-extend
+to extend
 
 proposition
 proposal
 
-professionnelle
+professionnel, -le
 professional
 
 dollar
 dollar
 
-sœur
+soeur
 sister
 
-qui
-whom
-
-Mémoire
+mémoire
 memory
 
 mien
@@ -2953,11 +2776,11 @@ ahead
 ni
 nor
 
-demande
-request
-
-Publier
+poste
 post
+
+poster
+to post
 
 original
 original
@@ -2968,25 +2791,28 @@ female
 vert
 green
 
-Danse
+danse
 dance
 
-rêver
+rêve
 dream
 
+rêver
+to dream
+
 observer
-observe
+to observe
 
 informer
-inform
+to inform
 
-la communication
+communication
 communication
 
 découvrir
-discover
+to discover
 
-Piste
+piste
 track
 
 jardin
@@ -2995,20 +2821,20 @@ garden
 agence
 agency
 
-filtrer
+écran
 screen
 
 possibilité
 possibility
 
 examiner
-examine
+to examine
 
 juridique
 legal
 
 recommander
-recommend
+to recommend
 
 université
 university
@@ -3034,13 +2860,13 @@ easily
 favori
 favorite
 
-rock
+rocher
 rock
 
 indépendant
 independent
 
-Additionnel
+additionnel
 additional
 
 agent
@@ -3053,13 +2879,13 @@ approprié
 appropriate
 
 inviter
-invite
+to invite
 
 traditionnel
 traditional
 
 traverser
-cross
+to cross
 
 mer
 sea
@@ -3067,10 +2893,7 @@ sea
 célèbre
 famous
 
-Réponse
-reply
-
-Logiciel
+logiciel
 software
 
 lester
@@ -3727,9 +3550,6 @@ fee
 Sénior
 senior
 
-organiser
-arrange
-
 frais
 expense
 
@@ -3763,9 +3583,6 @@ ball
 en espèces
 cash
 
-entier
-entire
-
 réalité
 reality
 
@@ -3798,9 +3615,6 @@ tool
 
 bouche
 mouth
-
-objectif
-objective
 
 gaz
 gas
@@ -4392,9 +4206,6 @@ shock
 
 s'opposer
 oppose
-
-monter
-climb
 
 tout doucement
 slowly
@@ -5053,9 +4864,6 @@ sheet
 oreille
 ear
 
-périple
-journey
-
 minuscule
 tiny
 
@@ -5254,9 +5062,6 @@ ordinary
 critique
 critic
 
-utile
-helpful
-
 gène
 gene
 
@@ -5451,9 +5256,6 @@ merely
 
 émotion
 emotion
-
-haut
-tall
 
 malade
 sick

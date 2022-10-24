@@ -1,2 +1,6 @@
 This lesson is not yet implemented!
+<<<<<<< HEAD
 This lesson is not yet implemented!
+=======
+This lesson is not yet implemented!
+>>>>>>> 681dcbe01dda519c29f1491fc72201725b4f3ddc
