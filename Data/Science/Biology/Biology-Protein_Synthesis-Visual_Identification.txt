@@ -1,0 +1,103 @@
+<img src='../Data/Science/Biology/Biology-Protein_Synthesis.png' />
+A
+DNA
+
+<img src='../Data/Science/Biology/Biology-Protein_Synthesis.png' />
+B
+RNA polymerase
+
+<img src='../Data/Science/Biology/Biology-Protein_Synthesis.png' />
+C
+pre-messenger RNA
+
+<img src='../Data/Science/Biology/Biology-Protein_Synthesis.png' />
+D
+exons
+
+<img src='../Data/Science/Biology/Biology-Protein_Synthesis.png' />
+E
+intron
+
+<img src='../Data/Science/Biology/Biology-Protein_Synthesis.png' />
+F
+spliceosome
+
+<img src='../Data/Science/Biology/Biology-Protein_Synthesis.png' />
+G
+messenger RNA
+
+<img src='../Data/Science/Biology/Biology-Protein_Synthesis.png' />
+H
+excised intron
+
+<img src='../Data/Science/Biology/Biology-Protein_Synthesis.png' />
+GG
+nuclear membrane
+
+<img src='../Data/Science/Biology/Biology-Protein_Synthesis.png' />
+HH
+nuclear pore
+
+<img src='../Data/Science/Biology/Biology-Protein_Synthesis.png' />
+I
+transfer RNA
+
+<img src='../Data/Science/Biology/Biology-Protein_Synthesis.png' />
+J
+large ribosomal subunit
+
+<img src='../Data/Science/Biology/Biology-Protein_Synthesis.png' />
+K
+small ribosomal subunit
+
+<img src='../Data/Science/Biology/Biology-Protein_Synthesis.png' />
+L
+start codon
+
+<img src='../Data/Science/Biology/Biology-Protein_Synthesis.png' />
+M
+stop codon
+
+<img src='../Data/Science/Biology/Biology-Protein_Synthesis.png' />
+N
+tRNA activation
+
+<img src='../Data/Science/Biology/Biology-Protein_Synthesis.png' />
+O
+anticodon
+
+<img src='../Data/Science/Biology/Biology-Protein_Synthesis.png' />
+P
+polypeptide chain
+
+<img src='../Data/Science/Biology/Biology-Protein_Synthesis.png' />
+Q
+protein primary structure
+
+<img src='../Data/Science/Biology/Biology-Protein_Synthesis.png' />
+R
+protein folding
+
+<img src='../Data/Science/Biology/Biology-Protein_Synthesis.png' />
+S
+translation
+
+<img src='../Data/Science/Biology/Biology-Protein_Synthesis.png' />
+T
+amino acid
+
+<img src='../Data/Science/Biology/Biology-Protein_Synthesis.png' />
+U
+amine
+
+<img src='../Data/Science/Biology/Biology-Protein_Synthesis.png' />
+V
+carboxyl
+
+<img src='../Data/Science/Biology/Biology-Protein_Synthesis.png' />
+W
+residue
+
+<img src='../Data/Science/Biology/Biology-Protein_Synthesis.png' />
+X
+excision
